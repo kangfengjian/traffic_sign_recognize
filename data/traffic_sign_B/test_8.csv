@@ -1,0 +1,1081 @@
+train_set/Uturn/a7be7dfe-f11a-4d3d-b05e-b1ce3a289ac7.png,30
+train_set/Uturn/a21741e5-d689-42bf-ae6f-1df8cd92723d.png,30
+train_set/Uturn/6e53cfd9-ce74-440a-b0da-d7deebe52f4b.png,30
+train_set/Uturn/fb401217-c71b-4a43-9654-19bdc514716d.png,30
+train_set/Uturn/049f4bb1-7569-414a-90ae-e88f07a59c12.png,30
+train_set/Uturn/93a9ab65-90ce-4347-a170-056b98370e27.png,30
+train_set/Uturn/65b83ba8-bd8d-4f9b-b0e1-6faf35a10d8c.png,30
+train_set/Uturn/e11e3295-9262-4088-b1f6-e55bf1d05c1e.png,30
+train_set/Speed limit (15km)/9a24f090-5602-4b51-a637-0525bf1911b4.png,1
+train_set/Speed limit (15km)/3d91c588-6266-446d-a0be-93598c970598.png,1
+train_set/Speed limit (15km)/0b577fd5-e595-405e-bba7-a4aa0736649a.png,1
+train_set/Speed limit (15km)/8282fc7a-2e4c-499c-ad3e-df55cf273eee.png,1
+train_set/Speed limit (15km)/d2200e0c-f9ab-4603-b383-d832cac96eb5.png,1
+train_set/Speed limit (15km)/84970106-8a9d-4aeb-ab8c-87a4b31ed0ba.png,1
+train_set/Heavy Vehicle Accidents/58d9242d-797d-45bf-a004-fd1272cc5ff3.png,44
+train_set/speed limit (120km)/9811efae-5b9b-4b85-8541-17ef53362112.png,10
+train_set/speed limit (120km)/36546859-4fb3-48d4-adc6-15bc81dfd99a.png,10
+train_set/speed limit (120km)/54d55226-1a26-4239-9c18-e8bebe0f15c7.png,10
+train_set/speed limit (120km)/e5b88798-fc44-4fae-92df-52faab3e4e58.png,10
+train_set/speed limit (120km)/6df13aae-48a0-48f6-87e6-f9973072d14a.png,10
+train_set/speed limit (120km)/1e877a18-53d4-498d-bc52-5609a803d74f.png,10
+train_set/speed limit (120km)/b3dfd447-60e8-46ce-8597-0d9a4c423cf2.png,10
+train_set/speed limit (120km)/8b3d9579-79f0-49c1-bf7f-fd017529e328.png,10
+train_set/speed limit (120km)/2d28ca58-6685-4529-a3ca-7cf56f2949c6.png,10
+train_set/speed limit (120km)/5fc1f9d6-7ed3-4ae1-8b89-ff213dbe5413.png,10
+train_set/speed limit (120km)/8f21eff8-097a-4a4d-97bb-2514394ed4e6.png,10
+train_set/speed limit (120km)/a26e7c70-7203-407f-84d3-728ce70ac449.png,10
+train_set/speed limit (120km)/6f028b6a-dce2-48a3-b039-d93b04277b70.png,10
+train_set/speed limit (120km)/170dfbf9-9564-49a3-b99a-e2c3dde5bf02.png,10
+train_set/speed limit (120km)/ccaeb1b9-2e53-4053-a28a-4fe0d78e8f3b.png,10
+train_set/speed limit (120km)/e2f42a40-7bb9-4b67-b3e9-b952bfb62c52.png,10
+train_set/speed limit (120km)/57b7b1ef-0c9c-4528-8d61-15f9ab22d46e.png,10
+train_set/speed limit (120km)/0e6d196c-c05b-4a95-bc4c-9cccc0714c7c.png,10
+train_set/speed limit (120km)/467c391b-bae5-4cd5-b323-2990e9c1e78d.png,10
+train_set/speed limit (120km)/e96b532c-e8bc-4269-9f14-b9c7fe6af89e.png,10
+train_set/speed limit (120km)/4b709ca9-e350-4b63-8fdf-fd850a8938d4.png,10
+train_set/speed limit (120km)/384cd59c-05f6-4642-ae18-43213ba00631.png,10
+train_set/speed limit (120km)/7aef56e6-fe5a-43d8-898e-512aaf9b31c5.png,10
+train_set/speed limit (120km)/31806b36-6bfa-4d77-94d0-121f39d42ab0.png,10
+train_set/speed limit (120km)/5720c139-7050-4e7d-aaf1-740130be2699.png,10
+train_set/speed limit (120km)/82edd622-d354-4dcc-ac87-600aa0332350.png,10
+train_set/speed limit (120km)/c2ea1246-9e48-410c-8040-2f8203c9f7ac.png,10
+train_set/speed limit (120km)/ce9d1731-13ca-4e2f-9503-0f696a8ed3aa.png,10
+train_set/speed limit (120km)/0090bd36-8c97-4e70-960b-703832a829fc.png,10
+train_set/speed limit (120km)/e0908cd9-349a-4862-871e-adf0f2d16a10.png,10
+train_set/speed limit (120km)/18d8e80d-927a-4cd4-b3ad-111cc3a7f0dd.png,10
+train_set/speed limit (120km)/a3f64df6-40f8-4487-97a4-451fa1d684ba.png,10
+train_set/speed limit (120km)/cc3f38e4-add6-49e7-9d9b-2e5f3459669e.png,10
+train_set/speed limit (120km)/50742a9f-b578-4955-af8e-65dbc5c33912.png,10
+train_set/speed limit (120km)/4995d2c6-7aa7-41c4-9905-80e7c6ed37d9.png,10
+train_set/speed limit (120km)/9902a8c6-21c8-4229-b2c7-453eb2932566.png,10
+train_set/speed limit (120km)/675f05eb-6be5-46c0-b11d-aa69c3bbdb78.png,10
+train_set/speed limit (120km)/19ce98bb-8c59-4f2a-80ce-3bd8367f72d2.png,10
+train_set/speed limit (120km)/451eb254-bbd1-4a74-be99-7b8a83808c39.png,10
+train_set/speed limit (120km)/20d0df8b-ef59-4dd5-9bab-e1fa26aaeb6d.png,10
+train_set/speed limit (120km)/9b699a87-4c09-4899-a98b-4a1457d3c3aa.png,10
+train_set/speed limit (120km)/57dff7da-d181-4e17-9813-b4add9e4051a.png,10
+train_set/speed limit (120km)/7a0952b0-1708-4dbe-98f8-7834e5b19cdf.png,10
+train_set/speed limit (120km)/e0425375-729e-4f1a-861e-9af748204fa0.png,10
+train_set/speed limit (120km)/32974a11-dbdc-4a0c-b048-3204ae298667.png,10
+train_set/speed limit (120km)/47f6367b-80f3-47eb-8673-2757b511a077.png,10
+train_set/No Uturn/2723139e-a973-44d9-a422-c7b09be17a42.png,16
+train_set/No Uturn/d9c8be18-d6ce-4266-bb6e-25472cad0a92.png,16
+train_set/No Uturn/1f601cef-13ab-4948-9b0a-02ccbe50ddc3.png,16
+train_set/No Uturn/3ccdee6a-7ea6-445e-addf-b5ec4b700f80.png,16
+train_set/No Uturn/d671faa3-7b20-4638-aeda-57c8793f993e.png,16
+train_set/No Uturn/c0cb4ff3-7543-4667-9f06-f317e55a9609.png,16
+train_set/No Uturn/dccfb4c3-3cc4-4e8b-b99a-2fd8cc3f21e8.png,16
+train_set/No Uturn/78880381-d124-4545-b5ce-afbb9decf12f.png,16
+train_set/Downhill steep slope/f28155d4-b49b-4a9f-ace2-7d5d56a4d5b9.png,42
+train_set/Downhill steep slope/dc78e9ed-ebf2-4014-80dd-be06a966eb94.png,42
+train_set/Downhill steep slope/c61161f8-f1d8-419e-9f5a-41053c33ace8.png,42
+train_set/Downhill steep slope/892fcb6e-f5f7-4d1e-ac13-a327bf6ada3e.png,42
+train_set/Downhill steep slope/60cd3ddf-09d3-4f29-9bdb-7342438ec43f.png,42
+train_set/Go right or straight/811d0a7a-e868-4cff-a50f-9aa5faabbcd5.png,27
+train_set/Go right or straight/7f0efa11-6046-44ce-abfd-5d62e78d0353.png,27
+train_set/Go right or straight/8b7b9ead-9059-4d8a-986c-25d89d5e3596.png,27
+train_set/Go right or straight/015105b3-3cb3-45cc-b91f-059c83ea4852.png,27
+train_set/Go right or straight/ebdddb8b-7ca0-4e54-a98d-748c42a85c76.png,27
+train_set/Go right or straight/46259852-9823-4e95-b9ea-7f0779466860.png,27
+train_set/Go right or straight/cbda98f0-72eb-4b3d-a76b-f4bb480bc19a.png,27
+train_set/Go right or straight/38ad34c4-eb22-40da-b291-9c6f42254f70.png,27
+train_set/Go right or straight/1d4f3a3d-81a4-45c5-9640-5c583d7fb52b.png,27
+train_set/Go right or straight/3cddcc03-2f98-42f5-94b1-a1d64979fa68.png,27
+train_set/Go right or straight/f3a070ff-3a69-4fe3-bc5e-fd6962bf1009.png,27
+train_set/Go right or straight/748f93e4-9313-4559-a3e9-58be762be7e5.png,27
+train_set/Go right or straight/2a66a0ef-88bf-40f6-b60c-3258e3de29d9.png,27
+train_set/Go right or straight/b8105744-e4e6-49a2-bcc0-b2aab4c12628.png,27
+train_set/Go right or straight/382857e4-b528-4635-abaa-917cc453a3e4.png,27
+train_set/Go right or straight/95d4ef04-1831-4233-ab96-b54f3a73a6cd.png,27
+train_set/Go right or straight/5ba99368-6db5-4c69-9d24-a13a5e867ce6.png,27
+train_set/Go right or straight/81c1af55-a954-49b9-875f-ae5e575d4c19.png,27
+train_set/Go right or straight/0acbe001-424a-4ce5-b0de-6c1c88086b71.png,27
+train_set/Go right or straight/fdf61651-5aee-4c07-8a9b-17809829636c.png,27
+train_set/Go right or straight/b52f4708-5a32-4125-b6a1-c4a5cee9d14f.png,27
+train_set/Go right or straight/b7dde89b-b30a-4643-911d-95d8ceb967e9.png,27
+train_set/Go right or straight/2c7bcf38-eb31-426f-ab72-6c749dbb4967.png,27
+train_set/Go right or straight/a00dc4e4-0df6-481d-9770-b163393488c8.png,27
+train_set/Go right or straight/81c28a67-5f50-4e6b-9838-a18acf47a6e0.png,27
+train_set/Go right or straight/a4557591-9cf6-4bb7-ae56-2718e2700d2d.png,27
+train_set/Go right or straight/80b13bf2-1948-400d-924e-e03a5c4b6f79.png,27
+train_set/Go right or straight/e720a037-cafa-4734-a05f-e688d0e98fd3.png,27
+train_set/Go right or straight/dafe2000-2f9c-437a-ade5-8b4f102c2863.png,27
+train_set/Go right or straight/8d4c562f-c283-4db0-935d-4b87d8ea4190.png,27
+train_set/Go right or straight/e60bdcb7-9ff9-4368-b70d-d128b411df9e.png,27
+train_set/Go right or straight/e30b9764-ddd5-413a-82c5-004526cf04e7.png,27
+train_set/Go right or straight/637035d6-3659-419b-ab17-651d68403499.png,27
+train_set/Go Right/0f070060-dd4c-45f6-b32b-0bfa5f79a80a.png,50
+train_set/Go Right/63e3b139-4866-48cf-a681-67bed5561b39.png,50
+train_set/Go Right/da19353c-2281-4c78-b873-1ef454474d67.png,50
+train_set/Go Right/921192fb-e485-4427-a430-28a271993543.png,50
+train_set/Go Right/7d30ac86-eabd-49c6-942b-c81e808dd1cb.png,50
+train_set/Go Right/2295c14d-f46b-4ea7-914e-6d04b47c343d.png,50
+train_set/Go Right/c8c334a0-36dd-4b38-8bad-43d97ee1f815.png,50
+train_set/Go Right/5f5e207c-4eb0-4199-8c11-2c69bbd0e0c3.png,50
+train_set/Go Right/0f17da5e-8ab1-498d-b7b5-2e9477efe0f8.png,50
+train_set/Go Right/3325067c-f1eb-4bf3-828f-e9ec203da9cf.png,50
+train_set/Danger Ahead/13e24f74-e033-4466-b756-e98a0ebcc611.png,58
+train_set/Danger Ahead/6d6b0c41-d870-4474-bf6e-8af32be52910.png,58
+train_set/Danger Ahead/5b13f8a9-81d1-484e-8158-f045e8d01a33.png,58
+train_set/Speed limit (60km)/82bc2d3b-05ec-4265-a9f0-e9d5609f5330.png,6
+train_set/Speed limit (60km)/3ab85e59-6dc4-4e0a-ba51-25605c69f871.png,6
+train_set/Speed limit (60km)/fad44946-6fbd-428a-a0f6-667b63b0784e.png,6
+train_set/Speed limit (60km)/2543695a-8e31-4855-9cac-fe93a956193c.png,6
+train_set/Speed limit (60km)/f0ea951b-0af7-4dff-82ee-b83e048a41f2.png,6
+train_set/Speed limit (60km)/7ab8bc6d-95fb-40fa-b8f1-2b75d1fe1e04.png,6
+train_set/Speed limit (60km)/b47edbdf-0a6f-4abc-9971-5a60bee521dc.png,6
+train_set/Speed limit (60km)/1a3991a7-838a-40c8-b48e-e5c1a7628bf1.png,6
+train_set/Speed limit (60km)/8db6c580-8bd0-45ba-a95e-dc21843ff624.png,6
+train_set/Speed limit (60km)/a91a77b2-aae6-4b76-9ffe-ddb450d3d2a9.png,6
+train_set/Speed limit (60km)/6691e68a-01a2-4e61-9319-1d1118f4ace0.png,6
+train_set/Speed limit (60km)/701539c2-d36d-4acc-a4bd-0bdfe2e4a03d.png,6
+train_set/Speed limit (60km)/85b5aaf5-bad8-4b28-ae39-9f0acde5c543.png,6
+train_set/Speed limit (60km)/200cfbc8-8305-495c-94d5-9002fefb3048.png,6
+train_set/Speed limit (60km)/b32079e8-b937-458b-8c8a-257baa06f93a.png,6
+train_set/Speed limit (60km)/1a309943-0d09-41ba-ac75-7f295187a3cd.png,6
+train_set/Speed limit (60km)/ea1b383d-c08b-4257-8e0d-9979e209cbbb.png,6
+train_set/Speed limit (60km)/bc67e32a-cc6c-4e7b-a908-856b9dbc227e.png,6
+train_set/Speed limit (60km)/c043b4f3-daed-4e48-bc12-6da9543bab24.png,6
+train_set/Speed limit (60km)/ba8b6317-33a7-46a7-a5d7-38ca460afa82.png,6
+train_set/Speed limit (60km)/8276eaf6-63e8-44f7-b3ce-0d405d7339a2.png,6
+train_set/Speed limit (60km)/4d35530f-d99f-45e8-abbe-26b6985af489.png,6
+train_set/Speed limit (60km)/49252b01-873c-4b93-bb60-4ae5bc304c31.png,6
+train_set/Speed limit (60km)/83477921-e6a3-43fb-90cc-0f4a324006e6.png,6
+train_set/Speed limit (60km)/73fe2131-2007-4031-8d95-2c8ec97ee444.png,6
+train_set/Speed limit (60km)/35b132e6-15f3-4db7-beba-fa8f7dbe8952.png,6
+train_set/Speed limit (60km)/8d846859-4381-4117-b2c2-32e67e224168.png,6
+train_set/Speed limit (60km)/17254942-cb48-44dc-85f8-856c82c519df.png,6
+train_set/Speed limit (60km)/37f09ed9-1565-4a9a-aa52-8ba1d8b9284a.png,6
+train_set/Speed limit (60km)/771c8e1d-7196-49b5-a25b-c342c8f9bb65.png,6
+train_set/Speed limit (60km)/dceaa40a-e034-43f9-9487-c6c7144c875b.png,6
+train_set/Speed limit (60km)/001a1cad-1af1-428b-a67f-9d153ee4c573.png,6
+train_set/Speed limit (60km)/a9d7c7ee-d338-43b3-a546-0d86c2185379.png,6
+train_set/Speed limit (60km)/a50156f0-e8b1-451b-ba82-4c5a97683ef5.png,6
+train_set/Speed limit (60km)/bdeb67e4-86b2-4085-b149-09b2e97b87c1.png,6
+train_set/No Car/64b496a3-e547-4563-95a7-4738eef2ae19.png,17
+train_set/No Car/e9fdf0c3-ee62-4840-bd69-dd5cfbb0e340.png,17
+train_set/No Car/0ac6e8d2-e48a-4a47-8da4-bb54e0d56a5e.png,17
+train_set/No Car/e66624bb-1bce-4ce5-be6d-efe10f156c87.png,17
+train_set/No Car/0977d4ee-e27d-47a9-b7a4-8dbc619c6d74.png,17
+train_set/No Car/c860c3c1-f71c-4eae-ac1b-94a864b6db76.png,17
+train_set/No Car/36cb7d6f-cc7b-446e-8019-100057b6e4a8.png,17
+train_set/No Car/74747537-be87-46f9-a731-033c1dbdf59d.png,17
+train_set/No Car/9822c3b3-ef5b-4424-b853-c909cbb0649c.png,17
+train_set/No Car/494fcdee-5db1-48f5-80f2-80dabbd2a46d.png,17
+train_set/No Car/53ead6aa-fb09-48ca-88cc-502680d0824d.png,17
+train_set/No Car/4d617c71-7b50-4afb-b05d-da1b57a62e20.png,17
+train_set/No Car/75128f9b-8497-42b0-8992-08b1cbeae449.png,17
+train_set/No Car/7744fad7-1ee2-446c-8f8d-0dd4b75f5b9c.png,17
+train_set/No Car/ecd4d8f4-cb87-4973-8833-23a09d1ee481.png,17
+train_set/No Car/2c11ca16-d7bf-43e2-9993-6d54f3b94d1f.png,17
+train_set/No Car/3d193ab9-0d7c-48ba-b8a3-98916c1bb531.png,17
+train_set/No Car/7c464082-295f-48ca-ab78-2c4107e83a4b.png,17
+train_set/No Car/3b1566f2-0ba8-4f27-804f-6e791a4832b0.png,17
+train_set/No Car/1513f722-3785-4a0b-bc21-062de8fa62a0.png,17
+train_set/No Car/1419b60e-18c8-44c5-9f88-ac6bd83b196c.png,17
+train_set/No Car/82cd229d-2180-424e-a2cf-628ea3410431.png,17
+train_set/Traffic signals/30f5da1e-54c2-4093-8ca8-0c60cd9320863.png,59
+train_set/Go Left/18b95eef-fc64-4b01-aa57-bc3e7982a3eb.png,53
+train_set/Go Left/93a8923a-433d-4cbb-9ac6-9b093f601dec.png,53
+train_set/Go Left/4b4bceeb-1716-4bb2-a99a-ca12922ae1f0.png,53
+train_set/Go Left/17b8279f-c6f8-4b59-ad78-6bbd3cd20200.png,53
+train_set/Go Left/3068eb0b-a6dc-4af3-a931-7e63bdc81a3e.png,53
+train_set/Go Left/f4f89955-6087-441c-828b-2f1c22b667e9.png,53
+train_set/Horn/0f828c08-a60e-4636-bacd-d94d60daf56a.png,40
+train_set/Horn/2ff33811-59b7-47f8-a04d-24e40f37236c.png,40
+train_set/Horn/1d57be5c-1d29-4aa9-805e-44a1a902f767.png,40
+train_set/Horn/38176f5c-f0e5-4fa0-9974-667f5eae3dd9.png,40
+train_set/Horn/ee2e6101-df87-4a92-897d-ddc06d016142.png,40
+train_set/Horn/48d51178-9108-4ab2-834a-3ddb9423ec16.png,40
+train_set/Slow down and give way/91ed7fc4-3c19-4c5c-9e95-3507f130f9d6.png,37
+train_set/Slow down and give way/2178fdf2-82a6-4f13-88bc-b7269c04d34d.png,37
+train_set/Slow down and give way/147c635b-9b71-4aa1-b9d2-0a5a1b0bc017.png,37
+train_set/Slow down and give way/83984fc6-acf3-43e8-acd7-29dfefc12d9e.png,37
+train_set/Slow down and give way/8033b487-2d28-4f14-a966-4b7b83659e9d.png,37
+train_set/Slow down and give way/31a8a6ff-4a9d-4c72-bbe4-29efdefd98fe.png,37
+train_set/Slow down and give way/87a865a8-476a-49f8-a8f3-8678d089b693.png,37
+train_set/Slow down and give way/5c0d057a-46d2-4d6d-9641-2badc615b00e.png,37
+train_set/Slow down and give way/19d6563d-548e-450b-919b-2fc20ab4ea02.png,37
+train_set/Slow down and give way/53cba702-4702-4406-93a9-2c331f0ce885.png,37
+train_set/Slow down and give way/6cdd9eba-09d7-4aca-9d4c-07dfc20d5102.png,37
+train_set/Slow down and give way/ab453863-15d5-4cf2-9a06-d8ba16db7ade.png,37
+train_set/Go Left or right/ccc57f24-487c-4191-b1e1-a693ae02d450.png,51
+train_set/Go Left or right/30fba151-3895-4c59-8efb-f353f9bc8ed2.png,51
+train_set/Go Left or right/9f404bd1-d2f1-40ee-a113-20e6c9bd700a.png,51
+train_set/Go Left or right/f7cfee21-c283-433e-b7b9-8a3a1a1b2927.png,51
+train_set/Go Left or right/ee24fb0d-28b4-4044-9770-f14ebab678f5.png,51
+train_set/Go Left or right/1deab702-8186-41cd-b4a5-8684c4441cb7.png,51
+train_set/Go Left or right/8eda3999-9b72-4ea2-b2c5-68cf527ffa1e.png,51
+train_set/ZigZag Curve/6ffc1927-269f-4681-b417-9d932bec8dfa.png,31
+train_set/ZigZag Curve/88f5734f-c16e-4b3d-81c5-fee5471b975e.png,31
+train_set/ZigZag Curve/309c7452-d3e3-4cf8-ae96-d91e8b53bea6.png,31
+train_set/ZigZag Curve/e42df9e8-641f-4c09-a88d-7ac20459977e.png,31
+train_set/ZigZag Curve/8a5d3199-b7a2-4b7b-99ef-29c587b750a3.png,31
+train_set/Zebra Crossing/4535d3fa-11f4-416d-bca3-0970ff43955d.png,60
+train_set/Zebra Crossing/cff75a9e-8376-4f2a-ac77-a567a5edc92c.png,60
+train_set/Zebra Crossing/887c28fe-f897-40e5-a1ad-aa924b09d109.png,60
+train_set/Zebra Crossing/eaaad853-d564-4c3d-a7d5-dc4a01cca1d7.png,60
+train_set/Zebra Crossing/2f847468-3f5d-4568-a361-fb4f9505c35d.png,60
+train_set/Zebra Crossing/d588b37f-6c20-4ae6-902b-2e1792d0738c.png,60
+train_set/Zebra Crossing/00432752-622e-4230-805b-28ba89d24ab2.png,60
+train_set/Zebra Crossing/31489093-57e8-4888-9e97-5d219e7f4066.png,60
+train_set/Zebra Crossing/79e88f21-e0db-458e-9df5-0b337bcbe7c6.png,60
+train_set/Zebra Crossing/72bf0b99-3786-41dd-a4cc-1c9ba70cd79b.png,60
+train_set/Zebra Crossing/4ceffcc9-2217-4345-aa95-b68dd37ed984.png,60
+train_set/Zebra Crossing/925cf6e1-0698-4e71-91aa-bd909daec80c.png,60
+train_set/Zebra Crossing/299475ed-1943-4f7b-a845-8c06575b4a2d.png,60
+train_set/Zebra Crossing/a4b598a6-a933-494f-ba59-e0c8a6af2f2a.png,60
+train_set/Zebra Crossing/c72aa4e4-1fe5-49d0-827a-4cab3d1a801e.png,60
+train_set/Zebra Crossing/6fcbea43-9a04-40d6-88d2-8f2b14c1f49f.png,60
+train_set/speed limit (100km)/462cb3b8-84ee-4d62-921b-48efe77348f1.png,9
+train_set/speed limit (100km)/e308c303-a41a-4e8a-a13a-a54a3f717a2f.png,9
+train_set/speed limit (100km)/af80de6a-7cbb-4e6f-a69f-af6262826e39.png,9
+train_set/speed limit (100km)/4e82f952-be66-404b-8a58-61a45110b3e2.png,9
+train_set/speed limit (100km)/2e223c08-6849-42e3-a074-b4ba0aa3eed3.png,9
+train_set/speed limit (100km)/6bad57a3-2f0d-46f5-89c7-7f8cd9eea6a7.png,9
+train_set/speed limit (100km)/46726fbf-a7ce-4ce4-bbf1-7901973b3a3d.png,9
+train_set/speed limit (100km)/d69977c6-1109-46c8-9b55-758562db71bb.png,9
+train_set/speed limit (100km)/5cd83b6e-4497-433d-a097-4e503a54e412.png,9
+train_set/speed limit (100km)/f23a060e-ddd4-4523-b536-b20bb3d1aa3b.png,9
+train_set/speed limit (100km)/c6f818c4-5c15-452d-8a84-cd84019da30a.png,9
+train_set/speed limit (100km)/27eb21e7-40cd-4eae-a75d-af9228869d47.png,9
+train_set/speed limit (100km)/e97f719b-2a11-4ab5-bb7e-3ddbcda6818f.png,9
+train_set/speed limit (100km)/3f51d824-75ea-49d7-a116-101763426e91.png,9
+train_set/speed limit (100km)/dc9d3afa-e089-441f-8c3e-2f71106a031e.png,9
+train_set/speed limit (100km)/55886c32-4aa3-4590-b4ea-5f31a8ce587b.png,9
+train_set/speed limit (100km)/1d5b302b-e2c6-4462-9724-3aaae1e62359.png,9
+train_set/speed limit (100km)/4e787f37-1102-4025-8594-470bf7a4d0a7.png,9
+train_set/speed limit (100km)/47aca0ed-67da-4592-b594-6436eef1f1f9.png,9
+train_set/speed limit (100km)/8666d032-3e0f-468b-bba3-9c246ad30516.png,9
+train_set/speed limit (100km)/1b54b6e7-c901-4713-8510-0a7adb105138.png,9
+train_set/speed limit (100km)/64104f89-7f26-40d0-94bc-72cd5b172b92.png,9
+train_set/speed limit (100km)/09b7f5b6-343f-4f00-b4cf-482b13384568.png,9
+train_set/speed limit (100km)/69d30198-6225-47fb-8e13-a3087677979a.png,9
+train_set/speed limit (100km)/db85ba19-8e99-4a97-bb2c-fec08e8f4a1e.png,9
+train_set/speed limit (100km)/d2f5b70c-02a2-4f99-b322-d45035849fd8.png,9
+train_set/speed limit (100km)/272991f1-cd07-4bca-a3ff-3aba605db062.png,9
+train_set/speed limit (100km)/7b28a91c-b5e0-4daa-afde-7a16a91b0459.png,9
+train_set/speed limit (100km)/6b4d2e4d-6549-4582-8f2c-3c5ab386e041.png,9
+train_set/speed limit (100km)/34598aff-6cee-495f-9232-4318b5e4cd9a.png,9
+train_set/speed limit (100km)/c188e8e9-f7dc-4caa-bed8-317484292b9a.png,9
+train_set/speed limit (100km)/4ee1f1c2-9817-4edf-b928-b4f40253f531.png,9
+train_set/speed limit (100km)/e4b77e87-ba3d-40ab-9866-b0915bf4708b.png,9
+train_set/speed limit (100km)/68c9d043-67ab-449b-a83b-763d125a0216.png,9
+train_set/speed limit (100km)/8438593c-dd65-429d-b936-5828ee0d271d.png,9
+train_set/speed limit (100km)/bc16d432-a900-4021-8dca-ec63cbdbf86a.png,9
+train_set/speed limit (100km)/2094868c-7f04-45fc-a1bd-b02166b9c5df.png,9
+train_set/speed limit (100km)/6bd73346-6222-4ddb-bb0b-62d24b72d2e0.png,9
+train_set/speed limit (100km)/a53aa593-1863-40d2-ba2a-4daadaf06486.png,9
+train_set/speed limit (100km)/79758cbd-5359-4a84-84b8-cee80201e7a4.png,9
+train_set/speed limit (100km)/254efb0a-975f-460f-a547-53857161219c.png,9
+train_set/speed limit (100km)/f6e837b1-472f-4e11-a550-017ae404e6f3.png,9
+train_set/speed limit (100km)/f0c359d3-5c28-4ecb-aaea-361a65caf0cc.png,9
+train_set/speed limit (100km)/e425c494-0727-417a-a808-301a3e2a1929.png,9
+train_set/speed limit (100km)/b6663217-03b1-4d2b-b5c4-92a7ab96fb69.png,9
+train_set/speed limit (100km)/599c16d9-1e3d-4201-b8ca-7bf075fdf218.png,9
+train_set/speed limit (100km)/3b812abe-d10d-4f7e-9e1f-705e5f7417a3.png,9
+train_set/Dont Go straight or left/23fc5e59-1b23-4c76-8364-60667fa49b45.png,26
+train_set/Dont Go straight or left/1cba88b5-0218-4fe0-9aa3-dba8f4d5d87d.png,26
+train_set/Dont Go Left/b4add163-4737-464e-b2c6-11f39da2915b.png,23
+train_set/Dont Go Left/c5466183-e8b9-42ba-8484-832eb92494d8.png,23
+train_set/Dont Go Left/4b1e6a40-7a3b-4aa1-a890-50c762dd8733.png,23
+train_set/Dont Go Left/694c95a9-80ba-4b4a-8459-b1569d2e8def.png,23
+train_set/Dont Go Left/fbd792f2-e432-4adf-8074-e17976913e3a.png,23
+train_set/Dont Go Left/cca692f6-e20c-4852-991a-f5962fb710ad.png,23
+train_set/Dont Go Left/4185eec4-7fdd-442f-9d5c-5f05c24a2fb3.png,23
+train_set/Dont Go Left/c381a40b-42a5-49b7-8294-a166934a5d35.png,23
+train_set/Dont Go Left/dedf0f51-0d6d-4e81-893e-ebceec924903.png,23
+train_set/Dont Go Left/aecb7c11-f9e0-4b4f-a670-0f89064796da.png,23
+train_set/Dont Go Left/c02ef346-95e8-4392-9b52-ad72ef44a6a3.png,23
+train_set/Dont Go Left/c910ba67-4517-4224-9341-48ed30742539.png,23
+train_set/Dont Go Left/aa2a1c32-612d-4328-bce7-21606e648233.png,23
+train_set/Dont Go Left/50d380c9-0824-482d-897b-38a1575724c6.png,23
+train_set/Dont Go Left/4560aa6d-8ae3-4336-a771-69007df98c97.png,23
+train_set/Dont Go Left/5e806551-1da9-4de4-8465-677f4a43ea24.png,23
+train_set/Dont Go Left/f9ef5a06-02f6-4e77-957c-7dbee2bd0792.png,23
+train_set/Dont Go Left/fdf244f9-8cf1-4b6c-a72c-9bb423102e90.png,23
+train_set/Dont Go Left/96402181-cab2-4177-9bf9-17064ee29491.png,23
+train_set/Dont Go Left/721eb1f8-c5c7-4118-a2fe-af72b16db622.png,23
+train_set/Dont Go Left/98184938-5a71-4a34-b950-c813f39f0b35.png,23
+train_set/Dont Go Left/ed8e2bf8-7e21-4d68-b891-4236f321ad25.png,23
+train_set/Dont Go Left/77f147bd-dbc5-475b-ba4b-532969bb8e5d.png,23
+train_set/Dont Go Left/96177ac1-9f21-4ab6-949a-8767c49c7144.png,23
+train_set/Dont Go Left/619cd02e-bdee-4648-ad5d-040a3860125e.png,23
+train_set/Dont Go Left/2ae2b3da-b7c5-42a5-9f4c-4d782b276539.png,23
+train_set/Dont Go Left/9713101e-9828-417e-925f-58acc276c959.png,23
+train_set/Dont Go Left/68c7e032-1044-404e-add3-0518c22e2667.png,23
+train_set/Dont Go Left/a05a9804-8163-48dd-af1a-034555550170.png,23
+train_set/Dont Go Left/01143d0e-1bee-4af7-8dde-51dd776cbb5a.png,23
+train_set/Dont Go Left/23b51775-bf27-473d-a807-cd704261087d.png,23
+train_set/Dont Go Left/f683b8f2-9e57-4907-9714-4e576096b904.png,23
+train_set/Dont Go Left/31d5c3b5-6ce0-41be-9a0a-7245664e836d.png,23
+train_set/Dont Go Left/adee3cc9-d457-4bba-9336-592f661fcfdb.png,23
+train_set/Dont Go Left/6bc3cfa5-d14f-48b6-82b3-4af304ef64c1.png,23
+train_set/Dont Go Left/39d89e4e-dd27-403d-96c5-2e7a1229cc75.png,23
+train_set/Dont Go Left/32dbfb4d-a054-4b67-99e3-7c336c19d411.png,23
+train_set/Dangerous curve to the left/e072292c-5c13-48bc-b2d6-16197dd5bcbd.png,52
+train_set/Dangerous curve to the left/dd441dc7-cd64-4796-9984-ec2c059bcd24.png,52
+train_set/Dangerous curve to the left/9028eb41-6f3b-44bb-81c8-33cade0c1760.png,52
+train_set/Dangerous curve to the left/14c526c0-45e7-4457-8403-917bfe2c05ac.png,52
+train_set/Dangerous curve to the left/e9cb6012-7aa8-464f-9e4d-18c1f1a92f90.png,52
+train_set/Dangerous curve to the left/3f637914-c5ae-497f-956c-d311d527ec12.png,52
+train_set/Dangerous curve to the left/6fce7aa7-f722-4bb6-826b-44b949a88458.png,52
+train_set/Dangerous curve to the left/7b5d6aba-bc55-4c0e-8aec-8c6a4488f5c4.png,52
+train_set/Dangerous curve to the left/c5949416-c2ce-43e7-87ef-02d6af81273c.png,52
+train_set/Dangerous curve to the left/8fb4ddb0-a468-4225-b2da-c94c4a0fcc59.png,52
+train_set/Dont Go Right/5c02f823-aec4-4390-86ab-9f7005359fb2.png,21
+train_set/Dont Go Right/dc78904d-8700-4947-b065-8b67b6285865.png,21
+train_set/Dont Go Right/252e073e-54ee-4ee7-af5a-5e7b9fd37bff.png,21
+train_set/Dont Go Right/12022c43-4727-4f44-a1c3-ca2779e3487a.png,21
+train_set/Dont Go Right/72a0afa9-b55e-44cf-b90f-422404663c6c.png,21
+train_set/Dont Go Right/93a5d4aa-3576-4cf1-bcbf-6d59f946ba3d.png,21
+train_set/Dont Go Right/7cf660be-c9bb-4fe1-9f1a-519010bb6129.png,21
+train_set/Dont Go Right/3e3799a2-e4f0-4246-8986-02bab9338b45.png,21
+train_set/Dont Go Right/401e3985-ff3e-4413-a7a6-eec32f1074f4.png,21
+train_set/Dont Go Right/f69a2c5c-8e00-4a22-8f9b-8b9a08198546.png,21
+train_set/Dont Go Right/3e79f8a3-9c0c-4dfd-b466-930f52d7c9be.png,21
+train_set/Dont Go Right/9add8c50-0fc5-4f75-955f-6e8e63be02df.png,21
+train_set/Dont Go Right/94152fe1-5cca-44bf-b05d-7026e788d070.png,21
+train_set/Dont Go Right/46074e6c-da3c-4182-ad19-1bd54c22b80c.png,21
+train_set/Dont Go Right/7371bbf0-3bbc-47cc-85d3-6b120db15898.png,21
+train_set/Dont Go Right/6a6cce70-c80e-445f-ad2d-90c3d8ed3f7b.png,21
+train_set/Dont Go Right/be6ae6f4-799a-491a-9f0c-774011899b0f.png,21
+train_set/Dont Go Right/01ee7d76-800a-4b1e-89f9-9aea2983f9e4.png,21
+train_set/Dont Go Right/b6da7930-9707-4db9-8432-1172d859a162.png,21
+train_set/Dont Go Right/d5a90f0b-bc34-4705-be1e-09d41c7ff968.png,21
+train_set/speed limit (80km)/e21c2e3b-cb90-4209-b526-617665827843.png,8
+train_set/speed limit (80km)/9db65808-a27b-429b-adbd-d0a2c2f773be.png,8
+train_set/speed limit (80km)/42cfdcae-f390-4eec-86c2-13312135788b.png,8
+train_set/speed limit (80km)/89ed0b2a-b03f-49cd-8e61-bebf63b0188b.png,8
+train_set/speed limit (80km)/710ce61e-1762-4291-a422-8b1fe703d1c7.png,8
+train_set/speed limit (80km)/46ea7e86-0ded-48a1-97f0-2b777e073abe.png,8
+train_set/speed limit (80km)/fe7da21c-911c-450d-a947-569e90b92826.png,8
+train_set/speed limit (80km)/f86d1b75-7d9e-4bfe-a0a0-559d62fe95b2.png,8
+train_set/speed limit (80km)/f9de58a3-4011-49c3-8735-b98171ff9718.png,8
+train_set/speed limit (80km)/d869d45e-2591-4e5b-93fd-1a62e6665e89.png,8
+train_set/speed limit (80km)/59b25c1c-a317-4286-b409-bca9e7bdb0d1.png,8
+train_set/speed limit (80km)/bc6abafe-590e-4ea9-8697-c0a2e87648f5.png,8
+train_set/speed limit (80km)/daba981a-df86-4315-b3c2-2cbe41fc0a2a.png,8
+train_set/speed limit (80km)/3b828a8f-8073-41dd-a066-743325bc634c.png,8
+train_set/speed limit (80km)/4165e51b-875d-431e-a14d-d9d212fca89b.png,8
+train_set/speed limit (80km)/1b13ab25-30d5-4c12-89d7-61738c6eb0be.png,8
+train_set/speed limit (80km)/48454e57-11b0-4453-8ebb-19ad51f75a84.png,8
+train_set/speed limit (80km)/186bba23-da64-4f21-a33f-ff4b93553726.png,8
+train_set/speed limit (80km)/703893a6-23ce-4ccc-a8a0-81699bdfac0c.png,8
+train_set/speed limit (80km)/bf517f2c-5b0a-42d8-a1ef-344d757aa56b.png,8
+train_set/speed limit (80km)/0881a32d-f18b-427a-b726-b3b51a26c936.png,8
+train_set/speed limit (80km)/eb5ee228-a7b6-41da-8ee4-f568af237990.png,8
+train_set/speed limit (80km)/23dd5310-5f4c-46b5-ae53-ea33ad12e3cc.png,8
+train_set/Speed limit (20km)/1a690a5b-3cbb-4a1f-b2f7-cdd5a5b7b4f4.png,2
+train_set/Speed limit (20km)/f6523e11-bb67-4bde-9e02-09d895af88cd.png,2
+train_set/Speed limit (20km)/71b6e570-a8fa-4815-9510-c99e2478b374.png,2
+train_set/Speed limit (20km)/aef27ee1-3161-412b-9a08-7505c15a6471.png,2
+train_set/Speed limit (20km)/ec61d1bc-6931-486b-b4e0-3d53631eea70.png,2
+train_set/Speed limit (20km)/4421d8d6-8751-4748-a07a-9a72b89e8de3.png,2
+train_set/Speed limit (20km)/a683e324-2cea-43cd-9221-277b5dd9229b.png,2
+train_set/Speed limit (20km)/81e34ed3-43a7-462a-812e-82c5496d6474.png,2
+train_set/Speed limit (20km)/81a4164b-3e83-42dd-abc5-f19e90cfa5a7.png,2
+train_set/Speed limit (20km)/89d558da-1c5f-4877-9541-f571ad30c71f.png,2
+train_set/Speed limit (20km)/2d480167-655c-44f3-ac0d-5962cce2b49e.png,2
+train_set/Speed limit (20km)/6f38c29b-953a-425b-a17f-6b68bb440dea.png,2
+train_set/Speed limit (20km)/21e3edbb-31de-4a4c-9111-4d806ecd0ee2.png,2
+train_set/Speed limit (20km)/5c195228-89ab-4e28-a598-a29faee12769.png,2
+train_set/Speed limit (20km)/e41548f2-ff2b-43e1-8f26-fda55c99d4fd.png,2
+train_set/Speed limit (20km)/9f68e956-d6f9-4130-95fb-496b88d3b938.png,2
+train_set/Speed limit (20km)/1cfb968e-158b-4c9c-8565-a78e885631ee.png,2
+train_set/Speed limit (20km)/bc5d5b6a-a1e9-48cd-bcc0-15945dd0f79d.png,2
+train_set/Speed limit (20km)/1ace3364-62a2-4f43-8c05-c9e281e91f2d.png,2
+train_set/Speed limit (20km)/4e564321-6c06-44ce-b175-12fb0c845552.png,2
+train_set/Speed limit (20km)/84dac2c9-e03a-4cd5-b1be-1604c12fedc4.png,2
+train_set/Speed limit (20km)/779f8ac2-429a-4f05-ae47-774f161de859.png,2
+train_set/Speed limit (20km)/5e23b859-de94-4652-92c8-6b530e2bff1f.png,2
+train_set/Speed limit (20km)/7b6a011f-e973-4be7-8f32-0eb2743f0bdd.png,2
+train_set/Speed limit (20km)/e4f3d2e4-63e8-4959-a93a-70aa20e93877.png,2
+train_set/Speed limit (20km)/7dd40c4f-be57-47e5-9a58-78544b1f7e80.png,2
+train_set/Speed limit (20km)/8c0c7a1b-a177-41a9-9e4a-95e8f13a3491.png,2
+train_set/Speed limit (20km)/607aa98e-7681-4784-ab85-945fdbebf15d.png,2
+train_set/Speed limit (20km)/89d55360-5299-4285-864d-7e06a4d522a3.png,2
+train_set/Speed limit (20km)/3796b114-69d2-4d2f-8732-1019793fe386.png,2
+train_set/Speed limit (20km)/aeb2a53a-426d-4ea6-89cd-f183db5ead4b.png,2
+train_set/Speed limit (20km)/2f1a8612-25ad-4164-95af-39f1d1942c98.png,2
+train_set/Speed limit (20km)/c563c393-0e95-40d8-8632-66f074b8d639.png,2
+train_set/Watch out for cars/a8478382-dc84-44f8-912b-1dfea7fa38dd.png,36
+train_set/Watch out for cars/52995f5c-2b0b-4a4d-925b-b9da947622a7.png,36
+train_set/Watch out for cars/62e25f6e-3e5f-40d1-a724-dfe80f00348a.png,36
+train_set/Watch out for cars/5cadbf2b-2c9c-4bd6-a06d-507b33b82aa7.png,36
+train_set/Watch out for cars/8350b6d3-cd12-4dfc-8355-14f454292ec9.png,36
+train_set/Watch out for cars/318eba25-3c2a-40d7-af0c-f1d6c144bd0a.png,36
+train_set/Watch out for cars/3b770af6-1747-469e-be2a-48a5dbd7fb1a.png,36
+train_set/Watch out for cars/eba70a78-091d-4296-9e4e-04a9ac516822.png,36
+train_set/Watch out for cars/665d10d0-c519-4566-91ca-e7ee04391ba9.png,36
+train_set/Watch out for cars/e5f262b6-35d5-4ca9-9d0b-ad122f932648.png,36
+train_set/Watch out for cars/06b6b56d-7e54-4617-91e3-2906e6ce3310.png,36
+train_set/Watch out for cars/11be0aeb-97d5-4ffe-a7fe-122f95821e4c.png,36
+train_set/Watch out for cars/f687c47f-b50a-4ed7-9eb3-2e0017d5a4fc.png,36
+train_set/Watch out for cars/0deab9fb-02a6-41be-8d14-c080d7a899ae.png,36
+train_set/Watch out for cars/7dc7cc81-8370-47de-86ce-99e785416783.png,36
+train_set/Watch out for cars/cdfe317b-b865-493f-9ff7-ddcfc5a60d90.png,36
+train_set/Watch out for cars/0310e5db-a47e-4287-aacc-778d9aa77e41.png,36
+train_set/Watch out for cars/812c506e-d60b-4a89-bd15-eae6b1011230.png,36
+train_set/Watch out for cars/3f842723-7653-498e-ba97-08656ce01843.png,36
+train_set/Watch out for cars/7e576579-f27d-45f2-ade9-97d72ee39b9f.png,36
+train_set/Watch out for cars/c45c640a-40ca-4362-bd8e-89823be07004.png,36
+train_set/Watch out for cars/657e8b0f-2cc8-46b8-b0c9-f80827eb2e80.png,36
+train_set/Watch out for cars/bbfce26e-d59d-49ea-bb5d-9815b4691b22.png,36
+train_set/Watch out for cars/b2baf5a4-9d53-43e0-8d65-c6151cc344d6.png,36
+train_set/Watch out for cars/c6f4ac92-41e5-4627-8ba1-5cdd3faebd36.png,36
+train_set/Watch out for cars/4746840b-9e55-44ce-bbcb-6fbe31acbfd6.png,36
+train_set/Watch out for cars/92c8c3a7-cd05-41a5-b2ce-5c794e8f9bb9.png,36
+train_set/Watch out for cars/f8719a2a-dec4-4f1e-b5b5-d41dbc891a4a.png,36
+train_set/Watch out for cars/b2e1d2da-fc88-4abb-a230-d6273e50490e.png,36
+train_set/Watch out for cars/22ff4663-6c62-4787-87c2-84c5b19cd778.png,36
+train_set/Watch out for cars/d53e7636-88a4-4799-91e5-a21639f906b0.png,36
+train_set/Watch out for cars/cd9949b5-d31e-4343-a3d2-d519db4a8fab.png,36
+train_set/Watch out for cars/9c5a2c9d-8ded-4a14-b105-76d325efa961.png,36
+train_set/Watch out for cars/e89625af-68f7-4bd0-8268-7e8303ce2397.png,36
+train_set/Watch out for cars/49788ce8-00f4-479d-8ab1-1c291f2293a8.png,36
+train_set/Watch out for cars/5cc80c92-d58c-4d93-8b39-cefba6cf6c8e.png,36
+train_set/Watch out for cars/90fde6c6-424e-4fc1-addf-7799466069c3.png,36
+train_set/Watch out for cars/3070d7d6-fb33-41a5-99e3-fe8ba32fa440.png,36
+train_set/Watch out for cars/7b5dc027-c056-4ff4-a0e9-f47011aa7728.png,36
+train_set/Watch out for cars/2d289937-096b-4b61-ae37-1cabea7b6344.png,36
+train_set/Watch out for cars/65dd768a-eceb-46b0-a961-cd572b5abb9b.png,36
+train_set/Watch out for cars/8086bb51-6439-4fd3-b45c-4e0716015c9b.png,36
+train_set/Watch out for cars/a019d7b1-4ee3-4e4b-af0f-34c5587a9293.png,36
+train_set/Watch out for cars/78817470-fb71-4459-8567-159baedbf105.png,36
+train_set/Watch out for cars/0e11576b-ace3-4907-96a5-cf8c1aa28b13.png,36
+train_set/Watch out for cars/e6c0ac88-dd11-455d-b140-f3000838de74.png,36
+train_set/Watch out for cars/77ff933e-6baf-457d-84a8-428e74ff8268.png,36
+train_set/Watch out for cars/c3a9c67d-7b4e-41c3-8445-7ca16ae43619.png,36
+train_set/Watch out for cars/b2872513-5bb2-4794-af26-2bcdf5341416.png,36
+train_set/Watch out for cars/2b3b257e-d60a-47e5-b7b7-ea254051e4d7.png,36
+train_set/Watch out for cars/b814d466-6a66-4922-8400-ac961d363ed8.png,36
+train_set/Watch out for cars/2e5c0265-39a4-45d5-80ce-059f96cb77b0.png,36
+train_set/Watch out for cars/9e090481-da03-4583-8e71-9ce56f13d97c.png,36
+train_set/Watch out for cars/32476192-bd88-40e1-9350-d56096211df2.png,36
+train_set/Watch out for cars/a5f95e3a-e2fb-4cd7-9b3c-911cf8690437.png,36
+train_set/Watch out for cars/2c2a2447-2384-4c8c-be30-2089e4eb20a1.png,36
+train_set/Watch out for cars/77d48f25-a7d5-433e-9f6a-694fcdb779ac.png,36
+train_set/Watch out for cars/00365fa7-f9bb-4e33-8181-cfb36a7bf1cb.png,36
+train_set/Watch out for cars/c6d88fd2-2dfe-4a07-9251-49f80ddebe0c.png,36
+train_set/Continuous detours/80fd6f1c-176d-4fa8-a6f8-9c9a6215329a.png,38
+train_set/Continuous detours/2f2f0de0-c4aa-4edc-b821-1ff67d2b8e82.png,38
+train_set/Continuous detours/a7dcb9e5-9d69-4c4c-b812-f683ea87f6f4.png,38
+train_set/Continuous detours/05050d15-40e2-40e5-a55c-c431e8198087.png,38
+train_set/Continuous detours/526266f5-54ac-4965-9905-9448ca6bc2c7.png,38
+train_set/Dangerous curve to the right/743e2cf4-1acf-47d6-a0f7-3fcdf875088c.png,49
+train_set/Dangerous curve to the right/a37cd2b4-21c6-491e-ba33-0d0be8c018d4.png,49
+train_set/Dangerous curve to the right/b5e39267-68cf-4aa2-9f91-8862de11ee36.png,49
+train_set/Dangerous curve to the right/b75fff03-1d18-46d6-b4e7-9b1a221085a2.png,49
+train_set/Dangerous curve to the right/5fbf5fcb-d67b-431f-a581-bb1148c44427.png,49
+train_set/Dangerous curve to the right/20f21069-bedc-439b-9b47-dbfed0ba5f62.png,49
+train_set/Dangerous curve to the right/4b42fd36-b8c9-415f-8db3-c4fbb8ec1df8.png,49
+train_set/Dangerous curve to the right/6e90e85d-c61b-49e3-9c03-f20c8edb2ac3.png,49
+train_set/Dangerous curve to the right/7af33557-3594-406b-945c-dc8743fd0797.png,49
+train_set/Dangerous curve to the right/58f52a18-e03d-4077-85ce-9a8be54b71e0.png,49
+train_set/Dangerous curve to the right/ce9b8c14-7fb7-40d7-9d8a-7f3767c9e8e3.png,49
+train_set/Dangerous curve to the right/71fb65f6-ebb5-41d1-9e0a-1aaeb992b2ed.png,49
+train_set/Dangerous curve to the right/ef23c94f-4a26-47cf-9b29-230535c6ee3a.png,49
+train_set/Dangerous curve to the right/0af8cc92-c6e7-4091-a980-f3531a0fc36f.png,49
+train_set/Dangerous curve to the right/d61d5cd0-dc2c-45d9-9b61-ba71d50bffab.png,49
+train_set/Go straight/8652240e-cdac-4843-bab7-6d313be13831.png,54
+train_set/Go straight/a0f82baa-6d69-4c45-85f7-a54c527b3ad0.png,54
+train_set/Go straight/43909a75-ca42-47b9-89a9-06346418a754.png,54
+train_set/Go straight/54c105e3-39cf-49ac-a3e0-4f0e2588aec0.png,54
+train_set/Children crossing/98043001-4e0f-4873-97aa-f4b309b9faa9.png,56
+train_set/Children crossing/acfa42fd-8113-44b5-9822-334dda82940c.png,56
+train_set/Children crossing/26f29fed-13e3-4824-abac-7530a7dbc420.png,56
+train_set/Children crossing/ac1a7956-0687-4125-bc6f-4a3dea82065b.png,56
+train_set/Children crossing/ad66e1ec-af32-4af5-b839-ca08aa8053dc.png,56
+train_set/Children crossing/faa74086-ed7d-46ba-a0dc-25f1cbb0132f.png,56
+train_set/Children crossing/cbad1c60-911a-4d3e-81ed-66541cbf283e.png,56
+train_set/Keep Left/96054d47-5bef-43b1-91b4-b29eb9a11389.png,34
+train_set/Speed limit (5km)/7fc186c9-99b6-4e97-8fb3-b9259fdf0f6d.png,0
+train_set/Speed limit (5km)/c7c99d95-0ded-423e-8e3d-c7b343be2d92.png,0
+train_set/Speed limit (5km)/f0ee718b-c26b-429d-99b9-8ef52f0149ef.png,0
+train_set/Speed limit (5km)/d1d29d85-3278-429a-8e0d-080849992872.png,0
+train_set/Speed limit (5km)/9d634880-e262-44ea-b99f-3ddf40af6e38.png,0
+train_set/Speed limit (5km)/b4890449-4bf1-462d-8d78-bfbf58b445a5.png,0
+train_set/Speed limit (5km)/414e64b5-d2b1-495a-baa1-81f667c058ef.png,0
+train_set/Speed limit (5km)/3c2074ff-78f6-4edf-b0ac-e7b8362b448e.png,0
+train_set/Speed limit (5km)/b628ef3f-1ac2-4877-9da8-ed1570a67b3f.png,0
+train_set/Speed limit (5km)/973c0cbc-e84b-466d-8c5d-11729c2cd0e8.png,0
+train_set/Speed limit (5km)/d722f554-e5f7-4712-be30-6bf06d11298b.png,0
+train_set/Speed limit (5km)/7bdf19c2-1416-46fe-9195-ec9cc670f6b4.png,0
+train_set/No stopping/e4aaa752-d82e-4b46-9910-29a1f5bd3d75.png,15
+train_set/No stopping/82f27ad1-3cdf-493d-87c2-06bfff793c8a.png,15
+train_set/No stopping/28853487-da16-451e-8155-24f25ec96ae5.png,15
+train_set/No stopping/2013bd11-f0e7-4da4-adf7-b91fedc7cf69.png,15
+train_set/No stopping/a5ffeeef-4969-4077-985e-d3e08adff465.png,15
+train_set/No stopping/56e935db-50dd-45a5-bbbb-e9e4d236cfbd.png,15
+train_set/No stopping/517c1fb2-20b9-4ade-acb5-1836d2d19a4e.png,15
+train_set/No stopping/2aa582ee-8670-4cca-9856-afd7c587dbda.png,15
+train_set/No stopping/601aab73-a3b3-4be1-93f6-d476579ed487.png,15
+train_set/No stopping/29ce2d2f-7722-420d-ad2e-e49587e8b5f3.png,15
+train_set/No stopping/fd2e1e42-c4b3-4d85-b18e-b2e858f64e96.png,15
+train_set/No stopping/021fbeee-ae45-4577-ad94-b4948ac5499b.png,15
+train_set/No stopping/9bfa8255-1811-4181-8fab-968ab3098220.png,15
+train_set/No stopping/68529f3d-666e-4f2f-8873-a215124d2a52.png,15
+train_set/No stopping/06c7582a-6c8a-4ad9-ae9b-af538f47c1dd.png,15
+train_set/No stopping/e7143e5f-f62e-4b71-88a3-98a119b95100.png,15
+train_set/No stopping/ef719f0e-bd00-47af-9e39-8f957f07d8f7.png,15
+train_set/No stopping/efa45d2c-8ee3-422a-8ff2-9831ebf9f9fb.png,15
+train_set/No stopping/568530f2-88c8-4b11-adfa-507dd7ed3503.png,15
+train_set/No stopping/e0521209-034c-482b-b241-cb78c979e150.png,15
+train_set/No stopping/783931ff-53e8-4509-a1a8-a9897698fbfd.png,15
+train_set/No stopping/598ea1a6-2276-467f-8e1d-d33fb4efb9e0.png,15
+train_set/No stopping/202b32be-ac0f-4387-8d8c-13fc72c04e17.png,15
+train_set/No stopping/26462afe-a795-43af-a1c8-b5ef075f2aac.png,15
+train_set/No stopping/28911679-adbf-49c8-9a4b-73ec66bc1d2d.png,15
+train_set/No stopping/6a749200-3875-4a2e-9524-1fc06c8df2e8.png,15
+train_set/No stopping/c292051b-129a-4cc3-bf9f-449836bc933f.png,15
+train_set/No stopping/e98b0f59-c33b-4495-8d10-87bd851424a6.png,15
+train_set/No stopping/0f681192-7b78-424a-a5b3-ad5ef5f790ad.png,15
+train_set/No stopping/91a5bfd8-3015-4e9e-841b-e8b4894d9de4.png,15
+train_set/No stopping/4d3d39ce-e848-4d2f-8300-971fab6600e3.png,15
+train_set/No stopping/991e3b4f-a8ff-4083-af2e-7eda86362cc8.png,15
+train_set/No stopping/b79ba1fd-cc8c-4d86-83a9-2682ca5bf7d4.png,15
+train_set/No stopping/39123b3b-bc3a-4474-8d0c-f110d4c548f9.png,15
+train_set/No stopping/4bdbab56-d4db-44e5-b9bb-3ede072769d3.png,15
+train_set/No stopping/9011d1b0-9615-4fa4-ae2e-d3eccb563101.png,15
+train_set/No stopping/3a27ba49-67aa-4d15-9d14-b197c07de856.png,15
+train_set/No stopping/2a693964-5983-428f-9234-0e04cdffe7ce.png,15
+train_set/Speed limit (30km)/5b514257-4307-4e39-a47c-809966af42fe.png,3
+train_set/Speed limit (30km)/6fc0f698-8239-47fd-b883-9dd30427b5bf.png,3
+train_set/Speed limit (30km)/ea96e350-49f5-42a0-8253-3f4920b55962.png,3
+train_set/Speed limit (30km)/b6152926-42a4-472b-9898-077a0f791dc9.png,3
+train_set/Speed limit (30km)/ba941bd6-9050-4a4a-9fc4-01dfa8cf0e54.png,3
+train_set/Speed limit (30km)/80464328-1dcd-492a-b95e-2b4529a3f3ab.png,3
+train_set/Speed limit (30km)/dcc5c42a-2df4-4f13-8f72-92c5d3ad3292.png,3
+train_set/Speed limit (30km)/abb9c243-2de2-4b1e-bb2f-11c79b4fba67.png,3
+train_set/Speed limit (30km)/6737e5f2-1ec2-4cec-b07e-ed1ed631a73c.png,3
+train_set/Speed limit (30km)/318bd0de-c988-4085-ab69-2f28525e4fe3.png,3
+train_set/Speed limit (30km)/e431d02f-a7c9-4f4f-a289-4082a05414f4.png,3
+train_set/Speed limit (30km)/d4d5c72a-08b4-44de-ae80-813ed4eb5b00.png,3
+train_set/Speed limit (30km)/11797f05-0099-4a4f-af85-da5ecb7f0f9a.png,3
+train_set/Speed limit (30km)/8a287ae6-df2f-4e23-9f8f-4cb40268ff14.png,3
+train_set/Speed limit (30km)/5d595443-830a-4cf6-9a94-cb3ea16a9d26.png,3
+train_set/Speed limit (30km)/4edbcff1-ad1f-40df-85e3-127e89c39882.png,3
+train_set/Speed limit (30km)/6fa864b4-969a-44ce-883f-253210c630f3.png,3
+train_set/Speed limit (30km)/cf88274d-2295-4be1-85d8-081b328c819b.png,3
+train_set/Speed limit (30km)/67b035f0-247c-4409-83c7-316c7709ef61.png,3
+train_set/Speed limit (40km)/88a1fcbd-f6a2-4fbb-9f45-92ff613cb2e7.png,4
+train_set/Speed limit (40km)/bbc58c5a-8cb5-4167-b09d-99ed9ffa2e06.png,4
+train_set/Speed limit (40km)/5b62c2e0-e44c-46c1-913e-487ba6d77989.png,4
+train_set/Speed limit (40km)/7a38fad7-5187-4d81-a0ec-0ad70247f125.png,4
+train_set/Speed limit (40km)/16e17dff-bdbc-4845-be03-9be34e663f0a.png,4
+train_set/Speed limit (40km)/f4c5b94b-e89e-4497-97be-e1d37a824a70.png,4
+train_set/Speed limit (40km)/66d8e739-9e0c-4014-a09c-cd1d2e7b9db9.png,4
+train_set/Speed limit (40km)/39e2b885-6429-442c-aa90-c897921a19a3.png,4
+train_set/Speed limit (40km)/46076865-ba65-42ba-b5d9-cb9d02d136b0.png,4
+train_set/Speed limit (40km)/c1788d8a-ea9a-48e0-a2c6-db7869f840a8.png,4
+train_set/Speed limit (40km)/7c3ec918-d408-4dea-b9cf-3cb1479c6f99.png,4
+train_set/Speed limit (40km)/beb5672a-6dde-4c6a-baab-fab6c1fe5073.png,4
+train_set/Speed limit (40km)/eb5d2c87-2ae2-4eb4-bc91-1b4ef2b32a8a.png,4
+train_set/Speed limit (40km)/1d45535a-1adb-4dda-a4a0-89abdb59be84.png,4
+train_set/Speed limit (40km)/beee716f-e94d-4ab4-996a-dee950abdcdc.png,4
+train_set/Speed limit (40km)/18052aca-a0fc-4453-a5f8-265f2e551b2b.png,4
+train_set/Speed limit (40km)/447e4fe5-237f-4e47-9923-25b7dadf7c1f.png,4
+train_set/Speed limit (40km)/d8456399-5257-4f31-b56d-a27e7ef9ff43.png,4
+train_set/Speed limit (40km)/ab1c2d74-135e-4bc0-ac4f-015c249b7d7b.png,4
+train_set/Speed limit (40km)/fb9b06dd-facd-48fa-a106-aac6d8d12322.png,4
+train_set/Speed limit (40km)/5e1a6349-2d12-40db-b0b3-8b88be569910.png,4
+train_set/Speed limit (40km)/d3d49a28-e3a2-4617-8879-e2479214536d.png,4
+train_set/Speed limit (40km)/ecfcd4cb-e9ac-4bba-93ae-d3ac717ad5ca.png,4
+train_set/Speed limit (40km)/71bbf86c-7637-4d56-a671-b6e8750f1a78.png,4
+train_set/Speed limit (40km)/a0e31ba3-fbd6-4c0b-a0d4-462c6a5014f8.png,4
+train_set/Speed limit (40km)/48c60272-da84-4450-a7d0-fb00692eca16.png,4
+train_set/Speed limit (40km)/f043de62-a2ee-482e-83ed-ededb2982f2b.png,4
+train_set/Speed limit (40km)/35a7d832-74ff-4bc7-a6c6-7d7f6ed8a60b.png,4
+train_set/Speed limit (40km)/c2d08905-7032-4e07-adcb-addc3d3a7157.png,4
+train_set/Speed limit (40km)/9943401c-a946-4684-a52a-bb0db90a021c.png,4
+train_set/Speed limit (40km)/7ab08183-cbd0-40fa-ada2-9e0229227615.png,4
+train_set/Speed limit (40km)/b5437632-b99d-4f95-a6fc-085330310acc.png,4
+train_set/Speed limit (40km)/6a377b2c-5696-4932-a32f-529ac5deafdb.png,4
+train_set/Speed limit (40km)/43546d91-1153-47b1-8c3c-18f90c6c5ae2.png,4
+train_set/Go straight or right/10450bd4-e38a-4cfa-97fe-26c43e5ef485.png,55
+train_set/Go straight or right/222894bd-48a9-4168-a44f-974ce3c703fc.png,55
+train_set/Fences/4bb90951-769b-48c4-b345-f8d0da9f827d.png,48
+train_set/Fences/c8a6bdd1-47a8-4689-b202-6e7aed35391b.png,48
+train_set/Fences/4d3500d9-0f62-450e-a440-2789b2f02f80.png,48
+train_set/Fences/3037da8d-2895-4280-9e0f-da992b8ce84c.png,48
+train_set/Fences/1e718b8c-a32a-4ac7-a0ef-2db34fb35c66.png,48
+train_set/Fences/8d75a606-123c-4cdc-bdb7-5b8d304c47d5.png,48
+train_set/Fences/13680276-01b4-4188-997d-e9b4bb6401f2.png,48
+train_set/Fences/e611f4b0-bd67-4656-8180-e89d09955a91.png,48
+train_set/Fences/118ec474-5409-456b-b00f-3aa1370e0763.png,48
+train_set/End of speed limit (50km)/d992c0fb-a794-4931-8bea-0743bdb1e47a2.png,12
+train_set/Stop at intersection/8c4b0059-3ac0-4856-be2c-f325beb879d7.png,46
+train_set/Stop at intersection/d012e322-4536-4b19-9439-04c5d2581ec7.png,46
+train_set/Stop at intersection/9f41e0b3-7687-4883-aec3-03c7c2e48477.png,46
+train_set/Stop at intersection/517fdef0-ecfd-426d-98a9-c77506e3f302.png,46
+train_set/Stop at intersection/0f3694f4-919c-4a73-a864-0f3a58766639.png,46
+train_set/Stop at intersection/5c4ad455-58e4-41af-9461-3a1441f49efd.png,46
+train_set/Speed limit (50km)/d5b20d74-4ecf-40c6-9e85-0a9c3ff848df.png,5
+train_set/Speed limit (50km)/995bd8f9-b143-4edf-b50c-29fd52aa887f.png,5
+train_set/Speed limit (50km)/8362e0e3-7c14-4b7b-b35f-a585eb2d9613.png,5
+train_set/Speed limit (50km)/a8efc963-3b0b-4dda-8e81-0f8d0eaa48b5.png,5
+train_set/Speed limit (50km)/bc6e5c18-484f-47d9-8c97-fa3d0074e7be.png,5
+train_set/Speed limit (50km)/60c4e50c-22a8-4937-afc6-65d15696c24a.png,5
+train_set/Speed limit (50km)/bf4c3948-4dba-4b43-b6f5-274e172b09a1.png,5
+train_set/Speed limit (50km)/b361ae5d-0765-48d4-85bf-41ffff96c2c3.png,5
+train_set/Speed limit (50km)/06133d57-2473-4078-bf78-8a21621c60e4.png,5
+train_set/Speed limit (50km)/87ce3617-5df7-45a5-886a-0d5b48ad5528.png,5
+train_set/Speed limit (50km)/039f1402-83ef-4f58-afa0-04ffbdc6d98a.png,5
+train_set/Speed limit (50km)/f6d59dca-32dd-44aa-90ed-06f79a377e32.png,5
+train_set/Speed limit (50km)/d5822767-25aa-4269-b9aa-5e6155f23284.png,5
+train_set/Speed limit (50km)/cdd9a1b2-b737-4a91-9176-def142ceb64b.png,5
+train_set/Speed limit (50km)/36c577d3-1148-4784-906b-257a35a1d330.png,5
+train_set/Speed limit (50km)/771b683a-f21f-4935-b2a7-286d41e1fe19.png,5
+train_set/Speed limit (50km)/64e1d425-6589-4516-a9a8-3b61e0f0c91c.png,5
+train_set/Speed limit (50km)/7928f61b-25ad-47dd-ade1-0b505926ff27.png,5
+train_set/Speed limit (50km)/0cc00f34-4a5e-4c2f-a3ba-440aa65a068a.png,5
+train_set/Train Crossing/78be0ea9-deb3-46d3-829a-851ca1096048.png,47
+train_set/Train Crossing/76d22fac-d680-47c1-8fd4-7022f10542cf.png,47
+train_set/Train Crossing/d2bdac0d-02d6-47a3-990c-8df1470f9c52.png,47
+train_set/Train Crossing/0e702a2d-369f-4d1f-845e-044bf2a39e6b.png,47
+train_set/Roundabout mandatory/dc535a11-a856-4a57-9958-5d003de3ba78.png,35
+train_set/Roundabout mandatory/765a1e63-64ff-4d58-9159-50cb6ecc74a2.png,35
+train_set/Roundabout mandatory/1ab59af2-1830-4075-8b2a-bf47f11430a7.png,35
+train_set/Roundabout mandatory/7d0e0a55-9571-4584-9481-6ee5141b32a7.png,35
+train_set/Roundabout mandatory/e03bebaa-0b1b-4a10-aa92-d133d7e87888.png,35
+train_set/Roundabout mandatory/fcce0e45-04eb-4de6-a4ae-cfefbdfae5ff.png,35
+train_set/Roundabout mandatory/b17ac1d1-8651-4c91-b199-5ccc12a5ec41.png,35
+train_set/Roundabout mandatory/d8d0f688-f9df-4fc4-932a-3fcfd1113ac1.png,35
+train_set/Roundabout mandatory/c98781b4-01ce-47bd-bbe9-aa2dd91f5a19.png,35
+train_set/Roundabout mandatory/b5bee6be-60b2-42d1-b7f7-1ccaa11cc7e4.png,35
+train_set/No passage/0bf310f8-e3df-437c-a96c-fd728003e5e2.png,20
+train_set/No passage/4251c9ea-cf80-4fe6-a931-95162a9bb310.png,20
+train_set/No passage/b65f0996-071e-4c68-a3b7-902c78b34662.png,20
+train_set/No passage/7b8ece92-d976-4ea6-8f8b-0a00d3dffe00.png,20
+train_set/No passage/75f1d6f6-2a21-4b86-8c28-e47b2f43eddb.png,20
+train_set/No passage/d85a48b8-474e-453f-9c4d-a890f320397d.png,20
+train_set/No passage/d2f43e04-6ccb-47da-afbb-a6193587bd77.png,20
+train_set/No passage/603d2d9c-e950-4693-955b-4e8a0b29849e.png,20
+train_set/No passage/8b4aa731-b795-4c01-805f-79ab5c7e268b.png,20
+train_set/No passage/472b7ab5-3d9b-49d0-a4cd-aca3e33966d8.png,20
+train_set/No passage/a35e2743-bd54-4b71-b0c7-edce4393e3e6.png,20
+train_set/No passage/70cf3059-826a-43d1-a90d-cf43345a432d.png,20
+train_set/No passage/748e664f-dc3a-483b-9e20-5b1880535884.png,20
+train_set/No passage/04a88d42-e7e0-4b8e-b879-263715697887.png,20
+train_set/No passage/a7215426-ca65-498d-9d1f-3992ca511ace.png,20
+train_set/No passage/80553703-0d76-4e25-9ff1-7f823bae024b.png,20
+train_set/No passage/02dfaf5d-4359-49ee-80e7-4d5fffeeaedf.png,20
+train_set/No passage/ff7c0f25-a37e-483b-be00-a3f6d346c879.png,20
+train_set/No passage/65a25e5a-0b78-4450-8d0b-4925a5878bdc.png,20
+train_set/No passage/7564e9df-6b3e-45e8-97d4-3669acc8c717.png,20
+train_set/No passage/56a4bbab-86a7-4343-ba69-ed6665dc0ba0.png,20
+train_set/No passage/26af5364-671b-4ec3-8e66-49a569824a95.png,20
+train_set/No passage/75653d83-ead5-4b5e-8fc4-f012fe5154fe.png,20
+train_set/No passage/04120c1e-5c99-411b-9146-062b240a7e5f.png,20
+train_set/No passage/9fcbce01-4741-4fb5-b6a9-545b72560aca.png,20
+train_set/No passage/61a0003d-be58-4c66-be23-9eb2df3e79c2.png,20
+train_set/No passage/53a8c82d-ec18-427f-ae54-085a558458d4.png,20
+train_set/No passage/1ba75a92-bf97-4231-946b-1bfc6f6426c9.png,20
+train_set/No passage/f03bf94d-f22d-4659-8a26-bb44806adb21.png,20
+train_set/No passage/990422a4-670a-43b0-b303-d810af20e1d5.png,20
+train_set/No passage/1878fe90-dd04-4976-b3d2-7653e1d02b98.png,20
+train_set/No passage/494f9b33-6ea5-46ed-9216-70e9934d1a4b.png,20
+train_set/No passage/f42291d2-675e-4c11-8f23-40f06e8dbe5f.png,20
+train_set/No passage/4e82fbae-8c44-44ae-a601-cdc016005fc0.png,20
+train_set/No passage/6d3697da-26e3-4f81-b6d7-a212be17b659.png,20
+train_set/No passage/9ccf701b-d4c1-44d9-b4c5-02cffdf51afc.png,20
+train_set/No passage/a0a81d90-8c9b-45e8-aee7-8cf71eba185e.png,20
+train_set/No passage/d61df2a2-01de-470d-9718-cfbb0d72f01e.png,20
+train_set/No passage/c74ce717-1095-4931-a9e3-6d173dcb9f88.png,20
+train_set/No passage/c502eecc-fc2a-43f4-adcd-f328ca343a04.png,20
+train_set/No passage/baf10a75-b363-421c-b567-6ba7232ba40c.png,20
+train_set/Dont overtake from Left/5e1e44a4-669c-4136-89b4-78a5740921e2.png,14
+train_set/Dont overtake from Left/ec42c406-22f2-42d9-968c-7a299d6830fd.png,14
+train_set/Dont overtake from Left/024c9b79-3312-4ac1-a06c-454713692bc3.png,14
+train_set/Dont overtake from Left/ff88d36b-3ef6-442a-9b65-68a66209df8d.png,14
+train_set/Dont overtake from Left/758c2951-ae4a-4ac4-b786-e8a2e0dcd767.png,14
+train_set/Dont overtake from Left/0b285093-d821-4cfa-b736-f7b6423d8b6c.png,14
+train_set/Dont overtake from Left/f1966e46-df41-4026-94bc-40ea4591506a.png,14
+train_set/Dont overtake from Left/dffb6391-86ea-4d67-ad9a-ac0d2cfa7620.png,14
+train_set/Dont overtake from Left/19ff11fb-51a7-4786-929e-d377e2161c38.png,14
+train_set/Dont overtake from Left/6b2d6ed7-6b67-49b3-b755-36436f00924b.png,14
+train_set/Dont overtake from Left/0094e34f-92cc-43aa-a3d2-ca59d6cac487.png,14
+train_set/Dont overtake from Left/252656f5-0839-4813-98d7-8c954d0812d4.png,14
+train_set/Dont overtake from Left/07d9917b-c80f-451c-950b-d9cb2cc495f6.png,14
+train_set/Dont overtake from Left/67a38109-13e3-4851-8a0a-4f275d8b147b.png,14
+train_set/Dont overtake from Left/5ccee9e2-3466-44e9-93cc-b8c30b8b089c.png,14
+train_set/Dont overtake from Left/deab47c6-de10-40d3-b1c5-31edce404ede.png,14
+train_set/Dont overtake from Left/c0b36527-f26e-42d1-96e4-8b2b9fdba848.png,14
+train_set/Dont overtake from Left/cef62283-90d0-4f76-80d0-a067fde6b28b.png,14
+train_set/Dont overtake from Left/1d4ebc71-5f64-48e0-a23d-f0421ce7ea88.png,14
+train_set/Dont overtake from Left/e5c5da4f-b0f5-4aba-806e-69a6bd002924.png,14
+train_set/Dont overtake from Left/c5f1c739-2cfd-452a-823e-94b915d8a49c.png,14
+train_set/Speed limit (70km)/132e779e-73b4-4e91-a7a9-4802d0382382.png,7
+train_set/Speed limit (70km)/16c51c19-2397-4f71-b550-141240fa4a40.png,7
+train_set/Speed limit (70km)/8ba31330-fb8a-4507-8c90-1dbd9ada2e4f.png,7
+train_set/Speed limit (70km)/6d89e91f-ddeb-428e-ac35-9194471c8808.png,7
+train_set/Speed limit (70km)/bf5659ad-123e-4bed-bef1-dad9878d46aa.png,7
+train_set/Speed limit (70km)/6158b818-46e3-4597-87ca-e941025adc36.png,7
+train_set/Speed limit (70km)/b058840d-f17b-4c5f-b78a-7c437ed9341a.png,7
+train_set/Speed limit (70km)/a24aec9c-7418-4119-886c-e88726e30fa6.png,7
+train_set/Speed limit (70km)/23e1bcb6-25a6-414b-a8c7-08ae48541f23.png,7
+train_set/Speed limit (70km)/0c951db8-da83-4b52-9cf1-107de0642148.png,7
+train_set/Village/3ccf416f-709c-4bd7-b724-344db3206bf5.png,29
+train_set/Village/0442a2f5-b525-4d26-982b-0cbc774c783c.png,29
+train_set/Village/3ec7d2e6-31fb-48f4-8c47-18659dac94f1.png,29
+train_set/Village/fd2e42c5-8e38-41b6-8593-3e242bf9d651.png,29
+train_set/Uphill steep slope/020db8ee-2e6d-44e7-91f7-b44bd9e94519.png,41
+train_set/Uphill steep slope/7027cf64-b6b8-41fe-b0cc-bc31227da905.png,41
+train_set/Dont Go Left or Right/f0964ade-ad99-4afc-b7fd-a6cd7b755246.png,22
+train_set/Dont Go Left or Right/ab3f9ea1-966f-4544-b6f8-462dffe7b2ef.png,22
+train_set/Dont Go Left or Right/1d5e9de5-2863-4d49-8b52-aa52d7b00714.png,22
+train_set/Dont Go Left or Right/dae8dd1d-4bba-4c7c-8a9d-9a281971fe20.png,22
+train_set/Dont Go Left or Right/471b6c44-3846-4d0c-9d25-fd18d96d8b3d.png,22
+train_set/Dont Go Left or Right/60953100-38c7-41dc-b48e-5e94c8908263.png,22
+train_set/Dont Go Left or Right/e1ab6322-5796-4048-9f67-6924654f7119.png,22
+train_set/Dont Go Left or Right/3f4b6a35-cbcb-4634-909e-94ee99398afe.png,22
+train_set/Dont Go Left or Right/81db5020-230d-4999-a440-26a2bff8623a.png,22
+train_set/Dont Go Left or Right/a5e1a6ae-5a01-4733-8f91-cd36390e8a26.png,22
+train_set/Dont Go Left or Right/d02c1e94-bdc2-4cce-98da-10c11540c934.png,22
+train_set/Dont Go Left or Right/373a8dc1-9843-4def-8ca6-3620695422ed.png,22
+train_set/Slow walking/c5b65d79-ce2c-4c57-8bec-9ca36cdad284.png,39
+train_set/Slow walking/3bc8064f-5626-4eac-9ad9-998471abc4fb.png,39
+train_set/Go left or straight/a5161da7-42b5-426d-93cb-effe6fd78d2f.png,28
+train_set/Go left or straight/e4a14ae4-c421-4cc1-b42a-8235d0b90d74.png,28
+train_set/Go left or straight/cf77af68-ef2e-4d62-913e-aea1008d6e3b.png,28
+train_set/Go left or straight/9c53ec17-dde7-4ca9-a813-14d45a598d17.png,28
+train_set/Go left or straight/e9614668-4b69-462d-b3e2-3730499fdfd0.png,28
+train_set/Go left or straight/e4261ba1-6cfc-4f6b-8cc2-a36b432f617e.png,28
+train_set/Go left or straight/74175ed2-b99e-47ca-ae00-9199a93b2d5a.png,28
+train_set/Road Divider/ca4d7270-6633-4d4e-a271-1ee6761f5b33.png,61
+train_set/Road Divider/2914002d-63dc-446c-bd7d-43f1a8a90b76.png,61
+train_set/Road Divider/b7f2c593-4f75-4223-9d65-9e63aee961e7.png,61
+train_set/Road Divider/ec524d87-df84-430a-bf4b-49e938abd799.png,61
+train_set/No horn/e09dfa77-aa11-440b-8426-4a0610940662.png,18
+train_set/No horn/216e41db-c7ec-4783-a8ea-67b14765dd77.png,18
+train_set/No horn/d447833c-e4f4-4f3e-8f50-9e3e2c8f2c45.png,18
+train_set/No horn/ab341270-1cf8-4fae-8eea-f69ebb14fc4c.png,18
+train_set/No horn/692f75dd-b633-454c-8f67-e347483c1e8c.png,18
+train_set/No horn/b3b22d30-93b6-42ca-a24f-7b746f4d7ffb.png,18
+train_set/No horn/2e3d2b1b-1295-4991-830a-3db0adb69362.png,18
+train_set/No horn/935368aa-4079-4d56-8d2a-f521fbb0c2cc.png,18
+train_set/No horn/50916b53-684e-4a2b-8ed3-c57c2eaced1e.png,18
+train_set/No horn/b27d113f-518f-42eb-9629-cb9ebb780e0d.png,18
+train_set/No horn/f360509c-a445-46a5-9587-3cbfa4319d01.png,18
+train_set/No horn/2275e12e-7078-40ca-8cff-b9ad1a2f6b17.png,18
+train_set/No horn/22976466-23c4-44da-bc23-ae6d633ce472.png,18
+train_set/No horn/c011fb87-20e2-4f12-93d5-eacecff3f09b.png,18
+train_set/No horn/b66bfaea-67f4-4f34-80f7-13f9bb7e05bb.png,18
+train_set/No horn/50387d2b-21e5-47f2-9251-dedd61a59c65.png,18
+train_set/No horn/003a5ed5-d0b8-4fcc-9b71-ad86a2316c52.png,18
+train_set/No horn/9b1876a9-46ad-4969-8983-c756ac429270.png,18
+train_set/No horn/9d077759-fc54-44fc-93a7-6e66181922b1.png,18
+train_set/No horn/335814f9-b1a1-4f61-a048-9c004fe21a99.png,18
+train_set/No horn/52ca83df-436d-458e-90ec-01c5e495c2c5.png,18
+train_set/No horn/1394ec8f-2a31-4f5e-91a6-9057d2385511.png,18
+train_set/End of speed limit/11d9cd5c-6a0f-427b-ac14-8c641444c08b1.png,11
+train_set/End of speed limit/1735c6cc-b2d6-4fed-a17a-12e16afe36cf.png,11
+train_set/End of speed limit/70c9b74e-176e-4f50-8007-c6347db038061.png,11
+train_set/End of speed limit (80km)/95a74867-db0b-4603-b1f2-c480f00fc976.png,13
+train_set/End of speed limit (80km)/daffa883-aae7-4f1d-8084-7723cbcbb52a.png,13
+train_set/End of speed limit (80km)/41fa6569-0ab1-4a00-9a24-04d8b6021aae.png,13
+train_set/End of speed limit (80km)/1662bc37-1ed8-424f-92d6-3a5554dde2d3.png,13
+train_set/End of speed limit (80km)/1af00cf4-f0aa-4075-97a7-9387a38d4271.png,13
+train_set/End of speed limit (80km)/60363249-e82d-45ee-9dda-92994cc60c51.png,13
+train_set/End of speed limit (80km)/1702a3e0-488e-4376-bef3-24bcca88eec7.png,13
+train_set/End of speed limit (80km)/ec04d7d4-9e23-4c34-91ea-417509973085.png,13
+train_set/End of speed limit (80km)/ba3021c1-d91f-4848-995b-0605b9436788.png,13
+train_set/End of speed limit (80km)/052281bf-db01-4043-a627-30e61d219201.png,13
+train_set/End of speed limit (80km)/91976ca0-238c-4f50-9579-7354d613e7ec.png,13
+train_set/End of speed limit (80km)/d1cb6a8b-02ea-4bdf-a548-f29578e73102.png,13
+train_set/End of speed limit (80km)/09aaa123-1d46-416c-9262-e8dfd0914365.png,13
+train_set/End of speed limit (80km)/a639afbd-89ba-47b5-99e9-46c5354dd7eb.png,13
+train_set/End of speed limit (80km)/c4ac0b1b-04e5-4ed9-bbe3-2bd2c6d3374d.png,13
+train_set/End of speed limit (80km)/d73ac134-07ac-4b0f-95f7-51b92f2caec0.png,13
+train_set/End of speed limit (80km)/854e9e5d-731d-4563-891a-34c23d005bfd.png,13
+train_set/End of speed limit (80km)/c1029dea-60cb-4c6b-b0f0-93454b6a0bbf.png,13
+train_set/End of speed limit (80km)/c53479f1-01df-4ef7-89b5-cc08ef0a25df.png,13
+train_set/End of speed limit (80km)/f6316917-814f-4539-8e61-2e9fff6f0846.png,13
+train_set/End of speed limit (80km)/c4e0a732-1ae1-42cb-90d1-11a10c58df09.png,13
+train_set/End of speed limit (80km)/b842a6c9-a5e4-413e-855a-4246291a7b18.png,13
+train_set/End of speed limit (80km)/d856b892-7591-49cf-9bd9-a2aec0949079.png,13
+train_set/End of speed limit (80km)/34548c76-a0f8-423b-8b20-9cbccabab4f3.png,13
+train_set/End of speed limit (80km)/35fab7fe-cd41-422d-be0a-60c972a3f0ad.png,13
+train_set/End of speed limit (80km)/8e9e593d-c660-430f-9cc3-643e02951979.png,13
+train_set/End of speed limit (80km)/c127b394-f720-44fe-9cb2-2c299ac2343f.png,13
+train_set/End of speed limit (80km)/5a055836-cfe6-40d7-9372-eb00a83f380c.png,13
+train_set/End of speed limit (80km)/034f76f7-b38f-431d-9e1b-0281f60bdf6e.png,13
+train_set/End of speed limit (80km)/577435da-49e9-4b92-831a-83c8f5c3ccc6.png,13
+train_set/End of speed limit (80km)/5c8c9bcd-ec64-4230-8dbb-0a64846c10c9.png,13
+train_set/End of speed limit (80km)/db358fc1-0b3a-4dca-af6f-f1ac4d320c98.png,13
+train_set/End of speed limit (80km)/9f88cb86-30a4-4cac-afe4-27c35a863bec.png,13
+train_set/End of speed limit (80km)/833dfe5c-16a6-42fc-9629-f56bc5b0ab7f.png,13
+train_set/End of speed limit (80km)/59998e2b-2a46-407a-8e51-bb6f456cb8e0.png,13
+train_set/End of speed limit (80km)/34324912-ecf6-4d63-bbba-7b34f0a1f4fd.png,13
+train_set/End of speed limit (80km)/d330909a-943e-4ffa-a47e-bf5755524394.png,13
+train_set/End of speed limit (80km)/31a2a5b8-5a69-4548-96c6-9acc2e85de4b.png,13
+train_set/End of speed limit (80km)/031930b1-e534-4892-a668-237fbd7879e4.png,13
+train_set/End of speed limit (80km)/8915cf68-0939-4111-8dfb-f7137376f21b.png,13
+train_set/End of speed limit (80km)/4a79ec99-6baa-43e3-973f-61cfd7c7d1fb.png,13
+train_set/End of speed limit (80km)/9b11a424-5be2-4465-8941-3e46a3f9f9c7.png,13
+train_set/End of speed limit (80km)/71701aee-f9b0-4bda-b6d4-fb7625e155f1.png,13
+train_set/End of speed limit (80km)/753d6efa-2c0c-45a0-b1fd-d0ae947110e6.png,13
+train_set/End of speed limit (80km)/be491fa7-5eae-4faa-9e15-365b7b359ad9.png,13
+train_set/End of speed limit (80km)/571c011c-57d4-4eb8-ab36-57ff278677fd.png,13
+train_set/End of speed limit (80km)/c3e50955-0356-4b03-890b-e391f0deaa31.png,13
+train_set/End of speed limit (80km)/d30b7f67-ef9d-4354-b6db-43041b096883.png,13
+train_set/End of speed limit (80km)/1e33b7c7-c228-4938-ab3f-db6a4d54dfc4.png,13
+train_set/End of speed limit (80km)/ae3358af-e1fc-4843-9800-a903bc363caa.png,13
+train_set/End of speed limit (80km)/266e0671-a23a-4345-ad7a-34f907a06099.png,13
+train_set/End of speed limit (80km)/406ed142-1d15-4ee9-9acf-07382053df27.png,13
+train_set/End of speed limit (80km)/065f7984-bf75-4a12-bebd-ad73fe86d746.png,13
+train_set/End of speed limit (80km)/01fd2ab1-c8e0-4a41-860c-af9d7058cca5.png,13
+train_set/End of speed limit (80km)/cc44ffca-4b7c-4676-8e72-35b4c094f97e.png,13
+train_set/End of speed limit (80km)/c07c7211-871e-4307-9022-b24714048603.png,13
+train_set/End of speed limit (80km)/3d51de86-f2f7-493a-859e-e7b11d81c3d8.png,13
+train_set/End of speed limit (80km)/22fb604e-1f43-4a2b-bc40-cdfa999e770d.png,13
+train_set/End of speed limit (80km)/a3393f5f-4d21-48fb-8132-d4e5fc478811.png,13
+train_set/End of speed limit (80km)/0dd851d4-3617-4dc6-8d57-3fe03b822bb1.png,13
+train_set/End of speed limit (80km)/aa04fa0c-eabd-44b0-9d1b-5c0015c8879a.png,13
+train_set/End of speed limit (80km)/99de20e3-64c9-4108-b3a3-d1ab3e78140a.png,13
+train_set/End of speed limit (80km)/18a030b0-f514-4817-8cc7-19957406d484.png,13
+train_set/End of speed limit (80km)/96339163-5bee-4bb4-9738-782968ac7c7b.png,13
+train_set/End of speed limit (80km)/182d6873-85ba-4878-9f22-be5782b51bb2.png,13
+train_set/End of speed limit (80km)/0b4a3487-884f-4218-9495-50f25882ec3f.png,13
+train_set/End of speed limit (80km)/533728c1-588f-4f7e-9d79-cd4ef4983666.png,13
+train_set/End of speed limit (80km)/93009704-3ed0-4ff5-850d-7002b0fbc125.png,13
+train_set/End of speed limit (80km)/3fea18cd-491a-4020-aa2c-6d02529836c5.png,13
+train_set/End of speed limit (80km)/5e04657e-6010-4054-8952-a717108822fb.png,13
+train_set/End of speed limit (80km)/28b63e0d-de20-4104-8de4-73d7d7b6a1de.png,13
+train_set/End of speed limit (80km)/05f6f446-372a-4059-9125-6089ed3ea46a.png,13
+train_set/End of speed limit (80km)/85d52d67-11b9-4b4c-bb5e-7a51562cbb39.png,13
+train_set/End of speed limit (80km)/7cc1e110-96b6-416f-94ed-67772836687c.png,13
+train_set/End of speed limit (80km)/b30d8a80-c3f3-42ad-9247-aac5b055b4dd.png,13
+train_set/End of speed limit (80km)/747922d5-c445-4798-8aaf-f60c6d6e689e.png,13
+train_set/End of speed limit (80km)/7e57214c-1dfe-46a1-8202-d44a35b3e3a3.png,13
+train_set/End of speed limit (80km)/0fbb26c4-173c-4d7c-8a51-b2109a5b919a.png,13
+train_set/End of speed limit (80km)/e56627c7-19f1-47ac-a922-a30206b072e4.png,13
+train_set/End of speed limit (80km)/050f8732-55c9-4e59-a8f2-628a4510ae7c.png,13
+train_set/End of speed limit (80km)/7ff11e63-21f2-4c91-aa1b-a3da2d1f2684.png,13
+train_set/No entry/4ade4e02-cf92-4bf0-83e5-c2fe7da46e93.png,19
+train_set/No entry/3b8c060e-3f09-470f-aafe-8bad249d8d8f.png,19
+train_set/No entry/4e91777e-fb1e-4f38-880b-666368950de8.png,19
+train_set/No entry/cbcae2ac-2f1c-4517-bb54-55851dd9d3db.png,19
+train_set/No entry/b6190a6e-2bda-45cf-94fa-a8ed88054510.png,19
+train_set/No entry/7588b035-4173-4bde-a39a-0d9d3eed8046.png,19
+train_set/No entry/da090727-6426-4612-adf7-01671f1467ff.png,19
+train_set/No entry/d052490b-ae2a-4132-809f-c38df769ce4c.png,19
+train_set/No entry/a55825bf-3be1-455f-b29f-cf120b16a95f.png,19
+train_set/No entry/6c8d5839-6cd2-4334-ae16-0ff625332139.png,19
+train_set/No entry/8c64181a-4102-408d-b44a-a9aa141ed698.png,19
+train_set/No entry/8aa239f1-c80f-4959-a633-199fe32f1f03.png,19
+train_set/No entry/3ba69b67-96e3-4734-8e67-d5a6172b8a40.png,19
+train_set/No entry/baa073b2-90f7-484b-a0ad-e1cb5dbcba5d.png,19
+train_set/No entry/308db527-daa9-47c9-84a3-afd676ec44d2.png,19
+train_set/No entry/9797de36-a5f9-42f8-b1fb-cbe229987c71.png,19
+train_set/No entry/54900bb6-c450-42ab-8537-b78d8003c1d5.png,19
+train_set/No entry/f434fd65-3266-462d-9537-8c74bfecfc34.png,19
+train_set/No entry/352cf2fe-2574-47c8-8ed4-1cdeb8b16272.png,19
+train_set/No entry/c56ef5dc-cf84-412c-8887-28a5b95ef288.png,19
+train_set/No entry/3dc2adbf-1352-4180-9155-da350d82995e.png,19
+train_set/No entry/7fc974a0-5155-4253-bf18-cae84ec45f26.png,19
+train_set/No entry/b4a46f6a-3ed9-4c71-bd0d-08b16bc97c18.png,19
+train_set/No entry/cd1cefa0-ca20-4a11-94ab-0ffc75ee42aa.png,19
+train_set/No entry/4a29c7f6-0f33-4dfa-8788-ea1bb82a02a7.png,19
+train_set/No entry/b32c6a4c-5c04-40b9-904a-8a7961e631d2.png,19
+train_set/No entry/32538b07-3e5a-457d-94cd-eb0736b94909.png,19
+train_set/No entry/637cf78e-638a-44f4-928a-7c7ca6e21fdd.png,19
+train_set/No entry/ff0bc1f9-ea86-4b5b-acf5-a7d8c2dbdafb.png,19
+train_set/Under Construction/01680d3c-f5f9-47cf-a655-bebb9b6bd0f1.png,43
+train_set/Under Construction/055341aa-994a-447f-ae98-2341ed60aa56.png,43
+train_set/Under Construction/a03caa79-6ff2-4dbe-bd84-b79714073bc3.png,43
+train_set/Under Construction/cf43b967-a8ea-4f05-8895-46d29a18aa42.png,43
+train_set/Under Construction/09c9a24e-18c9-40d8-b495-8119422139c4.png,43
+train_set/Care bicycles crossing/b5a2a47e-e52d-4234-9ac2-29062d223cbb.png,57
+train_set/Care bicycles crossing/739a3257-91b7-420b-b19a-c8bf0ab8159c.png,57
+train_set/Care bicycles crossing/e55b8b2b-6ac2-4551-bba2-142b731b81ef.png,57
+train_set/Care bicycles crossing/228e4221-6d84-4be3-bcf9-9bcc420477c3.png,57
+train_set/Care bicycles crossing/0ea8b9c2-53ad-430b-a9a6-f537e445a135.png,57
+train_set/Care bicycles crossing/71b282c4-fda9-4baf-80ab-80c7f2722d81.png,57
+train_set/Parking inspection/e41e93b1-08f7-4dfd-aefa-ecd92976ff5d1.png,45
+train_set/Parking inspection/31bb7875-7d0f-44c1-9d0d-480d46dd4f061.png,45
+train_set/Parking inspection/50362fcb-66ee-4929-b971-e711f958c0b2.png,45
+train_set/Parking inspection/0ec4c3dd-17b7-4272-9ccc-fb8b08da423c.png,45
+train_set/Keep Right/bd07317a-1325-4c0b-969c-50e3d2a89efd.png,33
+train_set/Keep Right/0b783aba-0029-45b5-853e-af04a378ba16.png,33
+train_set/Keep Right/719a1d9c-64af-4fd7-a7cc-597f24ba2adb.png,33
+train_set/Keep Right/52c344bc-679a-48f2-93d0-da49d9d53be8.png,33
+train_set/Keep Right/8dc624b0-b6e8-4f42-a301-26b24fcb00d9.png,33
+train_set/Keep Right/5a03b322-e87e-42ba-8755-8b63688ea0f9.png,33
+train_set/Keep Right/d47f29a9-e81c-4154-a46a-5ca3b608bc31.png,33
+train_set/Keep Right/b704285c-180d-4b81-92e2-bfd8ab698049.png,33
+train_set/Keep Right/31cd54ab-d3c4-4296-a637-acfed98b96fb.png,33
+train_set/Keep Right/1c259af0-9fb3-45d9-bbd6-a0f7ace88e94.png,33
+train_set/Keep Right/6723eef1-e974-4962-a60e-7ab2bcda816b.png,33
+train_set/Keep Right/578d9612-48e5-4194-a47b-1be29558599d.png,33
+train_set/Keep Right/f8bfe3cd-9dda-4ec8-bafe-62d88d4c7056.png,33
+train_set/Keep Right/20d4b606-9895-4b14-93c1-28039368a7e2.png,33
+train_set/Keep Right/53f9c5d7-112f-4d8e-a633-8485c2198536.png,33
+train_set/Keep Right/19995811-cdad-4e59-88b0-d32f2ef3abe4.png,33
+train_set/Keep Right/bb65a9da-e725-4427-a8d3-11cda56aa667.png,33
+train_set/Keep Right/0fddfa05-c53d-4032-8875-632faefa59aa.png,33
+train_set/Keep Right/04e233f7-eabb-43ee-9416-25714e6e1e4c.png,33
+train_set/Keep Right/e3342e91-94cb-4493-8a2a-7868d642486d.png,33
+train_set/Keep Right/e443fa1e-f406-4462-a262-610b2ba9e2de.png,33
+train_set/Keep Right/6d72ad7e-af65-46da-86db-d6b34d82a66a.png,33
+train_set/Keep Right/2d47e49c-ad2d-40d9-baec-127c39e2250d.png,33
+train_set/Keep Right/37697619-a5c7-42d7-b049-2c0b85129632.png,33
+train_set/Keep Right/82512b3c-fbf8-4e9b-95ec-6ff8b20db663.png,33
+train_set/Keep Right/98375915-d796-4f01-85b5-0a7952063357.png,33
+train_set/Keep Right/83d54245-8cfe-4cdf-b620-2581a55cca7f.png,33
+train_set/Keep Right/a3772bc1-8e0c-4ad5-a620-178aef1aac91.png,33
+train_set/Keep Right/c857d6d9-b696-401f-a0cc-4220ed402790.png,33
+train_set/Keep Right/e9882f3e-2f2b-444e-a63a-8c841e3f6c62.png,33
+train_set/Keep Right/38a2e85d-954b-4c27-bbf2-e132cf6063d7.png,33
+train_set/Keep Right/cc8e2144-0ab9-4d04-a3bd-b12f9d7a45cf.png,33
+train_set/Keep Right/81b0d175-ee36-409b-a165-7c3dcf4dc1b3.png,33
+train_set/Dont Go straight/2f64eac7-b164-468e-bc75-02b4d1b4b5a1.png,24
+train_set/Dont Go straight/bad0146b-cdb5-4308-81b9-bf50c6676cc0.png,24
+train_set/Dont Go straight/70d0de3a-0946-4fea-b110-6a9222c2f99d.png,24
+train_set/Dont Go straight/a5d6ccd0-5c0c-48e4-95b6-a3e00e889d60.png,24
+train_set/Dont Go straight/e157aac2-68c9-40c7-ab2c-830bcf2c33cf.png,24
+train_set/Dont Go straight/129d9475-0e75-48ee-9338-97363eac17a0.png,24
+train_set/Dont Go straight/1a3bff0d-a7ff-4ab8-8c40-d443223f5496.png,24
+train_set/Dont Go straight/b398c4b6-c4b2-467d-8313-1e73c42ec96e.png,24
+train_set/Dont Go straight/26dba5a6-5e98-425d-8c7b-cbc98efbf258.png,24
+train_set/Dont Go straight/fe466024-b549-4212-8b1d-c97d4cac4d10.png,24
+train_set/Dont Go straight/3bcfa54d-ff5c-4256-8a9c-7de2a3cd1609.png,24
+train_set/Dont Go straight/fd2b2cbb-c68d-43b7-96fc-f32b952a574a.png,24
+train_set/Dont Go straight/82772400-bffd-4531-b454-a7d4838914c2.png,24
+train_set/Dont Go straight/d48feeb4-5d0f-4f51-b707-b8cbb827834d.png,24
+train_set/Dont Go straight/aa9d1cd1-5f67-4368-aee3-c8755f118e31.png,24
+train_set/Dont Go straight/3f0dc336-5404-4fac-a23d-e197c642b8dd.png,24
+train_set/Dont Go straight/020256c3-d366-48ce-b50a-afc537cfa355.png,24
+train_set/Bicycles crossing/66608a89-4b5c-4ab9-b188-90899b87e434.png,32
+train_set/Bicycles crossing/6b47502c-1e15-40a2-aa38-32ee708e48f1.png,32
+train_set/Bicycles crossing/624c6356-1e0c-4dfe-a536-30fc59b0c6d4.png,32
+train_set/Bicycles crossing/141b4f67-f6e5-4a40-904f-ee3895b76d62.png,32
+train_set/Bicycles crossing/ee23024a-e07e-456d-8fc1-1c4cb513c259.png,32
+train_set/Bicycles crossing/5c29b867-bf05-4675-98bb-d60ccff33ac3.png,32
+train_set/Bicycles crossing/ca120c26-460e-4a42-ae89-7f32f9597754.png,32
+train_set/Bicycles crossing/5cb9b502-7bd0-4999-a59f-2b917e7cc526.png,32
+train_set/Bicycles crossing/076556b8-e569-4485-873f-285044867671.png,32
+train_set/Bicycles crossing/0b2ea9db-fe13-4510-8269-eb96612f2c13.png,32
+train_set/Bicycles crossing/aa64bfb3-e72e-4faa-a633-044c60c16f86.png,32
+train_set/Bicycles crossing/33f759e1-55a1-415b-9ac8-a43101d06384.png,32
+train_set/Bicycles crossing/5bb5a343-6808-40b1-8d57-c45da9c78a43.png,32
+train_set/Bicycles crossing/001e49cf-d204-43e9-a8d2-a588f01729f8.png,32
+train_set/Bicycles crossing/49a3235b-bd69-402c-a2dd-1bf7a5890462.png,32
+train_set/Bicycles crossing/89457ac6-c70f-4cd7-a5c6-f2596a4a2591.png,32
+train_set/Bicycles crossing/422fbac4-79e2-4d0a-a755-08bc8fe2b22e.png,32
+train_set/Bicycles crossing/2507140f-0eac-4880-bc93-b5905d06b080.png,32
+train_set/Bicycles crossing/6a5376bb-ae44-4b4c-b234-8729000f3217.png,32
+train_set/Bicycles crossing/cc4f1779-2fe7-4d32-baef-766824cc02ef.png,32
+train_set/Bicycles crossing/27e05691-6e56-41ff-8715-13bd9b1f2eed.png,32
+train_set/Bicycles crossing/266c7cb0-66e4-4058-9b40-a5e0fbbb357c.png,32
+train_set/Bicycles crossing/68c87c93-2391-48c8-a129-c72ea4ef8522.png,32
+train_set/Bicycles crossing/b911ea6a-4a76-45b6-9643-2033bc2cc7ea.png,32
+test_set/57d28c50-275b-47ea-9839-f1364c3090a3.png,1
+test_set/51925386-4b1f-4c95-b10a-e5546cbd37b8.png,49
+test_set/bb40900c-1edd-47d0-82af-873d7bdeeffe.png,41
+test_set/f1002dc9-2c3e-40ed-bcde-f6d598e383e3.png,5
+test_set/7b5ea488-9297-434a-b692-8aa65c86597a.png,9
+test_set/d82b5e79-d1ce-4465-975d-f7ff3705d5db.png,0
+test_set/15c83a53-f80e-48cd-a0af-8b90a02b528a.png,5
+test_set/03570996-7d7a-4fef-afc2-dd4f5d117c87.png,60
+test_set/64ca5056-b246-4e79-9e96-f700f6044cac.png,52
+test_set/c01691df-ab30-41b9-b37d-44dcbcf28260.png,36
+test_set/d01dd68c-8d78-4ddb-a17d-086d3b39c370.png,51
+test_set/8683b9cd-3c01-4726-a14b-ce0f92d4ec25.png,16
+test_set/37734aa9-c508-4cf6-91a7-6297b55590a2.png,10
+test_set/cfcca56d-90b7-4378-895a-aec75e960bee.png,9
+test_set/8f0f8596-7275-4e76-a893-429d8ef659ac.png,47
+test_set/02c6b817-104f-49aa-bb0a-be5af0c7d69d.png,27
+test_set/28f91b02-cd09-4398-9d36-7879ef0f9cb5.png,7
+test_set/7e87cfee-02fc-4192-83ce-52672c163dd2.png,36
+test_set/f10b3009-4a25-4528-b916-4cd21de74706.png,32
+test_set/497881e6-7441-4ef8-9d9a-b4c76a70ad5d.png,20
+test_set/8c178397-4e44-4c16-ab8a-e693b48b8551.png,2
+test_set/c441766f-f4b7-4a12-915e-c08b1bfe468d.png,32
+test_set/563c4650-2a1e-4bfa-a0cb-fb0d7d48f73f.png,21
+test_set/09834a8f-3445-430f-ad8b-691cf6c9bbff.png,5
+test_set/8b40172e-16f9-4f48-b2f8-0949085f540d.png,14
+test_set/5deaaa65-be5f-4a80-b514-489f43da48dd.png,8
+test_set/2f5fd100-123f-4e99-90aa-0dedd92db5d5.png,22
+test_set/b2646ee9-3171-4737-8108-eca4ca494ccb.png,18
+test_set/7736ffae-02ad-43cc-851c-d0445c107f19.png,60
+test_set/f31ec574-97a6-4a80-b77b-a667fd525564.png,9
+test_set/42328248-e145-47a5-a0ef-79b91a03156a.png,26
+test_set/efc2970f-be5c-4a27-aa3b-aafe68473f86.png,38
+test_set/8e40d904-541f-4d1c-96e2-7437f5b93c1f.png,19
+test_set/b8792f85-645d-4252-8dc3-87f9053af7f5.png,15
+test_set/7d03bad0-b494-4c5f-9709-cd83aaac60f8.png,27
+test_set/a120eded-58ad-463b-a702-afc8fb85021f.png,3
+test_set/61ffbf3c-9455-4933-8af5-31f1214c43c1.png,53
+test_set/01cf52dd-4235-403b-9696-00490042dcbd.png,4
+test_set/e3dac335-3e1d-4466-8bf1-aa555a50c6a4.png,50
+test_set/51f3eeda-70c8-441a-aebd-c2a6ff4268b7.png,23
+test_set/00f7f66d-96f6-4c9c-b476-dced05e7211f.png,6
+test_set/3979915f-c4eb-4397-b625-90527f2195ca.png,23
+test_set/ecc697dd-8807-4666-b54a-6cb0a3f360ae.png,7
+test_set/842a3f9d-2fb1-4ef9-9b84-67fd729465b9.png,23
+test_set/a20c8e70-3cd3-468b-8e54-bef35de3df91.png,19
+test_set/5233058f-515b-4574-b177-dfc1985b66d2.png,50
+test_set/959d299e-b920-4955-bd32-4e7f037dce59.png,6
+test_set/da342a27-0347-43dc-a96e-30834c6fa166.png,15
+test_set/7108e43e-a6bd-4d1e-8117-062ea68315ae.png,14
+test_set/a767cfe4-6d3a-45cc-bb89-8a79b4174841.png,5
+test_set/27383055-e15b-4873-b0f5-6dbd3e2649df.png,34
+test_set/e9135c91-c095-4935-b3f8-9d20633b8d65.png,19
+test_set/f81e75e1-ec48-4221-be79-4599f7972418.png,42
+test_set/3f1d4a14-5645-4ecf-a4f6-fc001c43b4a3.png,36
+test_set/61c7f7a7-d754-4195-b1dc-87341f2d5a5e.png,8
+test_set/10880d4b-ef2a-41bb-aa79-a888fd3d6a14.png,5
+test_set/4da1469b-daff-495a-b49f-9c9d93a07aa3.png,24
+test_set/cf98fa32-b2a9-4ed8-b5b1-8349de7945de.png,10
+test_set/19564ef0-9a11-4036-a112-4fafbe6c9f92.png,61
+test_set/ea2fb2bb-67f7-4df5-a503-7e2dacabb652.png,10
+test_set/b8a3dcc8-16a7-4bfa-9a9a-bb14ae871886.png,2
+test_set/2ae4e8a9-c451-44c3-806f-c2812fe9c07c.png,14
+test_set/a614efe0-e769-43bb-9f04-333535cc1848.png,9
+test_set/2aa4535c-8895-4a9d-a81d-0168bae89a29.png,15
+test_set/462a8e7b-3a09-4ad7-aae7-52b773f7209a.png,33
+test_set/0c69bca6-7d2b-4c60-ba82-631210a0e62d.png,15
+test_set/a51a2839-fc0e-485f-aae8-4ceda520794b.png,15
+test_set/8278eba3-537c-450f-802f-421fd23f459a.png,0
+test_set/c17bc1d8-863f-43d3-82e8-790ec458b70d.png,20
+test_set/0a831bef-9146-495d-9102-8563398f12f7.png,24
+test_set/fdbf3a09-dec1-44ad-820c-26d8835f407f.png,9
+test_set/ead165b7-6b44-4ca2-ad3b-1cf1c4b2be67.png,15
+test_set/e7ea7c6b-ee98-4cd6-888c-75912e348e5c.png,20
+test_set/d69b5519-5f0c-414c-bf83-5ddbbfc32fe2.png,40
+test_set/46bd0039-85e5-4d4d-aaa1-528c3849fa75.png,8
+test_set/5c62b044-8801-42b2-99ee-e46b884f90ab.png,15
+test_set/21f1dd6f-99d6-486a-a5b4-9a0912b86541.png,36
+test_set/027848aa-c988-4fe8-a9d7-cedbe2671e2e.png,22
+test_set/d295e0c3-5aa6-4e5d-90d5-898a00fb8bac.png,36
+test_set/52517e06-5227-44f3-927e-1e10de1c775a.png,60
+test_set/42b2acaa-e214-47a2-8f4b-a369bc5d6a75.png,21
+test_set/2f70a94a-9a9b-4d51-b6b7-ef8be08974a0.png,33
+test_set/15651b5f-c96d-438c-874e-fa8890fac92f.png,10
+test_set/42c071cb-7bf5-4b67-976a-c3a0cb980da7.png,37
+test_set/f782ef4b-624f-4ec1-b113-1cc5a6d82d35.png,16
+test_set/bcaea671-377e-4fae-8940-fe340145889b.png,37
+test_set/88f33108-253b-4017-b9b4-eab5280db0f9.png,9
+test_set/e649a2dc-8a92-4f27-84ca-6f75ed7f5c1f.png,19
+test_set/a6636354-a3a3-41a7-9667-e5c6581777cc.png,33
+test_set/64ace21e-859b-47a3-b897-81e54bbf181d.png,57
+test_set/f391eb85-0108-4ec4-a7cd-cb0a311a92ae.png,18
+test_set/f1688b19-abb2-4135-981c-cd9d69487af5.png,36
+test_set/a49816db-9a12-4a38-80c6-4eb8997e63a7.png,13
+test_set/061af18d-a436-4158-8185-bcbe4716e252.png,6
+test_set/3cef1681-4a55-417a-a654-e9924c42b7f8.png,9
+test_set/95537b27-be88-4eab-b8dc-95b6ed3e5c0f.png,11
+test_set/49991f18-a044-4cfa-9f76-769ef94a924b.png,48
+test_set/13f3696c-7b7c-416c-aa93-27ac8abdd964.png,33
+test_set/e1f07cb3-b33c-4c62-bc82-2a2d1c97176f.png,21
+test_set/65248230-32fe-4211-89fe-5164d7b3d78f.png,2
+test_set/29d1c255-8dad-4c1c-b87e-232fea509d3e.png,15
+test_set/d389daa0-6d57-4098-8843-9bde73645533.png,36
+test_set/01a4038f-159e-4a73-bc65-2d20b3cc2a2d.png,17
+test_set/ac56579f-dfde-4526-8374-29bb39b7d2b3.png,23
+test_set/d7fa397f-e6af-46b1-b0f6-434e0de5d2b1.png,33
+test_set/3b3d4ec8-737d-4f17-878f-663996e6338b.png,17
+test_set/b3a0944c-5525-46fd-a064-2d8d878669dd.png,52
